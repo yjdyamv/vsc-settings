@@ -1,0 +1,661 @@
+astral-sh.ty: '{"ty.pythonEnvironmentRecommendationShown":true}'
+biomejs.biome: '{"alreadyTrustedBiomeDomain":true}'
+charliermarsh.ruff: '{"ruff.pythonEnvironmentRecommendationShown":true}'
+cweijan.vscode-office: '{"office.legacyWebStorageCleared":true}'
+eamodio.gitlens: "{\"gitlens:settings:migrated\":[\"graph.details.location:auto\
+  \",\"terminalLinks.showIn:enum\",\"ai.model:unpin-passive-copilot\",\"views.l\
+  egacy:hidden\"],\"gitlens:onboarding:state\":{\"items\":{\"graph:coachMarks:b\
+  annerDeferral\":{\"dismissedAt\":\"2026-08-14T07:40:18.874Z\",\"dismissedVers\
+  ion\":\"19.0.1\"},\"home:integrationBanner\":{\"dismissedAt\":\"2026-08-14T07\
+  :40:23.677Z\",\"dismissedVersion\":\"19.0.1\"},\"graph:intro\":{\"dismissedAt\
+  \":\"2026-08-14T07:40:23.738Z\",\"dismissedVersion\":\"19.0.1\"},\"graph:layo\
+  utPrompt\":{\"dismissedAt\":\"2026-08-14T07:40:23.738Z\",\"dismissedVersion\":\
+  \"19.0.1\"},\"agents:banner\":{\"dismissedAt\":\"2026-08-14T07:40:29.058Z\",\
+  \"dismissedVersion\":\"19.0.1\"},\"graph:kanban:buttonCallout\":{\"dismissedAt\
+  \":\"2026-08-14T07:41:42.727Z\",\"dismissedVersion\":\"19.0.1\"},\"graph:coac\
+  hMarks\":{\"schema\":\"19.0.0\",\"state\":{\"seen\":{\"kanban\":true,\"visual\
+  izations\":true,\"agents\":true,\"details\":true,\"compose\":true,\"review\":\
+  true,\"overviewBar\":true,\"compare\":true,\"gitHealth\":true}}},\"graph:visu\
+  alizations:buttonCallout\":{\"dismissedAt\":\"2026-09-02T06:22:20.243Z\",\"di\
+  smissedVersion\":\"19.1.0\"},\"graph:sidebar:pullRequests:callout\":{\"dismis\
+  sedAt\":\"2026-08-14T07:42:05.050Z\",\"dismissedVersion\":\"19.0.1\"},\"graph\
+  :sidebar:agents:callout\":{\"dismissedAt\":\"2026-08-14T07:42:07.527Z\",\"dis\
+  missedVersion\":\"19.0.1\"},\"graph:coachMark:agents\":{\"dismissedAt\":\"202\
+  6-08-14T07:42:09.577Z\",\"dismissedVersion\":\"19.0.1\"},\"details:review:but\
+  tonCallout\":{\"dismissedAt\":\"2026-08-22T07:50:41.601Z\",\"dismissedVersion\
+  \":\"19.0.1\"},\"graph:coachMark:overviewBar\":{\"dismissedAt\":\"2026-09-01T\
+  12:27:16.900Z\",\"dismissedVersion\":\"19.0.1\"},\"details:compare:buttonCall\
+  out\":{\"dismissedAt\":\"2026-09-02T06:10:00.194Z\",\"dismissedVersion\":\"19\
+  .1.0\"},\"details:compose:buttonCallout\":{\"dismissedAt\":\"2026-09-02T06:10\
+  :06.895Z\",\"dismissedVersion\":\"19.1.0\"},\"graph:coachMark:gitHealth\":{\"\
+  dismissedAt\":\"2026-09-04T11:48:56.476Z\",\"dismissedVersion\":\"19.1.0\"},\
+  \"graph:visualizations:health:callout\":{\"dismissedAt\":\"2026-09-04T12:17:1\
+  5.663Z\",\"dismissedVersion\":\"19.1.0\"},\"views:scmGrouped:welcome\":{\"dis\
+  missedAt\":\"2026-09-05T07:44:53.046Z\",\"dismissedVersion\":\"19.1.0\"}},\"m\
+  igratedVersion\":\"17.9.0\"},\"gitlens:premium:subscription\":{\"v\":1,\"data\
+  \":{\"plan\":{\"actual\":{\"id\":\"enterprise\",\"name\":\"GitLens
+  Enterprise\",\"bundle\":false,\"cancelled\":false,\"trialReactivationCount\":\
+  0,\"startedOn\":\"2025-09-22T13:29:38.000Z\"},\"effective\":{\"id\":\"enterpr\
+  ise\",\"name\":\"GitLens
+  Enterprise\",\"bundle\":false,\"cancelled\":false,\"trialReactivationCount\":\
+  0,\"startedOn\":\"2025-09-22T13:29:38.000Z\"}},\"state\":6,\"account\":{\"id\
+  \":\"voyager-enterprise\",\"name\":\"Voyager\",\"email\":\"voyager@gitlens.dev\
+  \",\"verified\":true,\"createdOn\":\"2020-01-01T00:00:00.000Z\"}}},\"gitlens:\
+  integrations:migrated:cloudOnly\":true,\"gitlens:version\":\"19.5.0\",\"gitle\
+  ns:synced:version\":\"19.5.0\",\"gitlens:windows:gk:cli:install\":{\"status\":\
+  \"completed\",\"attempts\":1,\"version\":\"3.1.77\"},\"gitlens:featureFlags:f\
+  lags\":{\"glensGraphGateIntroVideo\":false,\"glensWelcomeInEditor\":true},\"g\
+  itlens:repoVisibility\":[[\"c:/Users/yuan/Desktop/code-oss-build\",{\"visibil\
+  ity\":\"public\",\"timestamp\":1788141713377,\"remotesHash\":\"github.com/yjd\
+  yamv/code-oss-build\"}],[\"c:/Users/yuan/Desktop/vscode-smart-archive\",{\"vi\
+  sibility\":\"public\",\"timestamp\":1789707467850,\"remotesHash\":\"github.co\
+  m/yjdyamv/vscode-smart-archive\"}],[\"c:/Users/yuan/Desktop/深圳无人机飞行路线规划\",{\"\
+  visibility\":\"private\",\"timestamp\":1789739966923,\"remotesHash\":\"github\
+  .com/yjdyamv/shenzhen-drone-path-planning\"}],[\"c:/Users/yuan/Desktop/contac\
+  tPutianHospital\",{\"visibility\":\"private\",\"timestamp\":1789802973332,\"r\
+  emotesHash\":\"github.com/yjdyamv/contactPutianHospital\"}],[\"c:/Users/yuan/\
+  Desktop/node-gdal-async\",{\"visibility\":\"public\",\"timestamp\":1790131842\
+  891,\"remotesHash\":\"github.com/yjdyamv/node-gdal-async\"}],[\"c:/Users/yuan\
+  /node-gdal-async\",{\"visibility\":\"public\",\"timestamp\":1790251943176,\"r\
+  emotesHash\":\"github.com/yjdyamv/node-gdal-async\"}],[\"c:/Users/yuan/Deskto\
+  p/gdal-rs-napi\",{\"visibility\":\"public\",\"timestamp\":1790486718056,\"rem\
+  otesHash\":\"github.com/yjdyamv/gdal-rs-napi\"}],[\"c:/Users/yuan/Desktop/rar\
+  -rs\",{\"visibility\":\"private\",\"timestamp\":1790920322336,\"remotesHash\":\
+  \"github.com/yjdyamv/rar-rs\"}],[\"c:/Users/yuan/Desktop/course-report\",{\"v\
+  isibility\":\"private\",\"timestamp\":1790928864573,\"remotesHash\":\"github.\
+  com/yjdyamv/course-report\"}],[\"c:/Users/yuan/Desktop/activation_files\",{\"\
+  visibility\":\"private\",\"timestamp\":1791045247955,\"remotesHash\":\"github\
+  .com/yjdyamv/envi_activate\"}],[\"c:/Users/yuan/Desktop/crt-paper\",{\"visibi\
+  lity\":\"private\",\"timestamp\":1791217724995,\"remotesHash\":\"github.com/y\
+  jdyamv/crt-paper\"}],[\"c:/Users/yuan/Desktop/keepassxc\",{\"visibility\":\"p\
+  ublic\",\"timestamp\":1791336628480,\"remotesHash\":\"github.com/yjdyamv/keep\
+  assxc\"}],[\"c:/Users/admin/Desktop/patch_all\",{\"visibility\":\"private\",\
+  \"timestamp\":1794109886485,\"remotesHash\":\"github.com/yjdyamv/patch_all\"}\
+  ],[\"c:/Users/admin/Desktop/ghlab\",{\"visibility\":\"public\",\"timestamp\":\
+  1794146663893,\"remotesHash\":\"github.com/yjdyamv/ghlab\"}],[\"c:/Users/admi\
+  n/Desktop/wps-layout\",{\"visibility\":\"private\",\"timestamp\":179418851335\
+  7,\"remotesHash\":\"github.com/yjdyamv/wps-layout\"}]],\"gitlens:usages\":{\"\
+  launchpadView:shown\":{\"count\":5,\"firstUsedAt\":1786693011515,\"lastUsedAt\
+  \":1788594293344},\"draftsView:shown\":{\"count\":2,\"firstUsedAt\":178669301\
+  1516,\"lastUsedAt\":1786693240646},\"workspacesView:shown\":{\"count\":2,\"fi\
+  rstUsedAt\":1786693011516,\"lastUsedAt\":1786693245913},\"command:gitlens.plu\
+  s.login:executed\":{\"count\":4,\"firstUsedAt\":1786693022465,\"lastUsedAt\":\
+  1787407476388},\"command:gitlens.ai.mcp.authCLI:executed\":{\"count\":3,\"fir\
+  stUsedAt\":1786693218608,\"lastUsedAt\":1787407487005},\"action:gitlens.graph\
+  .walkthrough.started:happened\":{\"count\":2,\"firstUsedAt\":1786693223767,\"\
+  lastUsedAt\":1786693223802},\"command:gitlens.showWelcomeView:executed\":{\"c\
+  ount\":5,\"firstUsedAt\":1786693223768,\"lastUsedAt\":1789960445067},\"comman\
+  d:gitlens.views.welcome.close:executed\":{\"count\":5,\"firstUsedAt\":1786693\
+  226497,\"lastUsedAt\":1789960456020},\"command:gitlens.onboarding.dismiss:exe\
+  cuted\":{\"count\":1,\"firstUsedAt\":1786693229058,\"lastUsedAt\":17866932290\
+  58},\"homeView:shown\":{\"count\":2,\"firstUsedAt\":1786693233549,\"lastUsedAt\
+  \":1786693274925},\"action:gitlens.graph.details.wipShown:happened\":{\"count\
+  \":134,\"firstUsedAt\":1786693325050,\"lastUsedAt\":1794210236406},\"graphVie\
+  w:shown\":{\"count\":275,\"firstUsedAt\":1786694472929,\"lastUsedAt\":1791602\
+  441800},\"command:gitlens.views.launchpad.attach:executed\":{\"count\":1,\"fi\
+  rstUsedAt\":1786946726998,\"lastUsedAt\":1786946726998},\"command:gitlens.fet\
+  ch:graph:executed\":{\"count\":3,\"firstUsedAt\":1787159398817,\"lastUsedAt\"\
+  :1789481328935},\"command:gitlens.gitCommands:executed\":{\"count\":108,\"fir\
+  stUsedAt\":1787159398818,\"lastUsedAt\":1790499162759},\"command:gitlens.show\
+  Launchpad:executed\":{\"count\":2,\"firstUsedAt\":1787215806590,\"lastUsedAt\
+  \":1787224781550},\"command:gitlens.welcome.showComposer:executed\":{\"count\
+  \":1,\"firstUsedAt\":1787215838852,\"lastUsedAt\":1787215838852},\"command:gi\
+  tlens.showGraph:executed\":{\"count\":2,\"firstUsedAt\":1787215838853,\"lastU\
+  sedAt\":1790263638691},\"action:gitlens.graph.details.composeMode:happened\":{\
+  \"count\":2,\"firstUsedAt\":1787215838896,\"lastUsedAt\":1788329407040},\"act\
+  ion:gitlens.graph.overview.shown:happened\":{\"count\":15,\"firstUsedAt\":178\
+  7226707213,\"lastUsedAt\":1790908350967},\"command:gitlens.graph.push:executed\
+  \":{\"count\":87,\"firstUsedAt\":1787252100884,\"lastUsedAt\":1790499162758},\
+  \"action:gitlens.graph.details.reviewMode:happened\":{\"count\":3,\"firstUsed\
+  At\":1787311857115,\"lastUsedAt\":1788329323200},\"command:gitlens.diffWith:e\
+  xecuted\":{\"count\":8,\"firstUsedAt\":1787311869762,\"lastUsedAt\":178835986\
+  4525},\"command:gitlens.copyRemoteFileUrlWithoutRange:executed\":{\"count\":1,\
+  \"firstUsedAt\":1787314746978,\"lastUsedAt\":1787314746978},\"command:gitlens\
+  .openOnRemote:executed\":{\"count\":2,\"firstUsedAt\":1787314747100,\"lastUse\
+  dAt\":1788324267325},\"command:gitlens.openInIntegratedTerminal:graph:executed\
+  \":{\"count\":1,\"firstUsedAt\":1787402493577,\"lastUsedAt\":1787402493577},\
+  \"command:gitlens.views.graph.refresh:executed\":{\"count\":6,\"firstUsedAt\"\
+  :1787407455273,\"lastUsedAt\":1788323397999},\"command:gitlens.plus.signUp:ex\
+  ecuted\":{\"count\":1,\"firstUsedAt\":1787407472956,\"lastUsedAt\":1787407472\
+  956},\"command:gitlens.welcome.openKepler:executed\":{\"count\":1,\"firstUsed\
+  At\":1787927942836,\"lastUsedAt\":1787927942836},\"command:gitlens.switchToAn\
+  otherBranch:graph:executed\":{\"count\":7,\"firstUsedAt\":1787999233437,\"las\
+  tUsedAt\":1789481310754},\"action:gitlens.mcp.bundledMcpDefinitionProvided:ha\
+  ppened\":{\"count\":408,\"firstUsedAt\":1788312643899,\"lastUsedAt\":17942910\
+  93848},\"command:gitlens.graph.copySha:executed\":{\"count\":1,\"firstUsedAt\
+  \":1788322763204,\"lastUsedAt\":1788322763204},\"command:gitlens.copyShaToCli\
+  pboard:executed\":{\"count\":1,\"firstUsedAt\":1788322763204,\"lastUsedAt\":1\
+  788322763204},\"command:gitlens.graph.switchToCommit:executed\":{\"count\":1,\
+  \"firstUsedAt\":1788323044945,\"lastUsedAt\":1788323044945},\"command:gitlens\
+  .graph.deleteBranch:executed\":{\"count\":3,\"firstUsedAt\":1788324563527,\"l\
+  astUsedAt\":1788551932115},\"command:gitlens.openWorktree:graph:executed\":{\
+  \"count\":1,\"firstUsedAt\":1788329014990,\"lastUsedAt\":1788329014990},\"com\
+  mand:gitlens.graph.deleteWorktree:executed\":{\"count\":1,\"firstUsedAt\":178\
+  8329274604,\"lastUsedAt\":1788329274604},\"command:gitlens.ai.switchProvider:\
+  executed\":{\"count\":3,\"firstUsedAt\":1788329335171,\"lastUsedAt\":17883293\
+  37075},\"action:gitlens.graph.details.compareMode:happened\":{\"count\":1,\"f\
+  irstUsedAt\":1788329400225,\"lastUsedAt\":1788329400225},\"command:gitlens.di\
+  ffWithPrevious:command:executed\":{\"count\":1,\"firstUsedAt\":1788359859733,\
+  \"lastUsedAt\":1788359859733},\"command:gitlens.copyPatchToClipboard:scm:exec\
+  uted\":{\"count\":1,\"firstUsedAt\":1788413959361,\"lastUsedAt\":178841395936\
+  1},\"command:gitlens.publishBranch:graph:executed\":{\"count\":1,\"firstUsedAt\
+  \":1788516039094,\"lastUsedAt\":1788516039094},\"action:gitlens.graph.scope.c\
+  hanged:happened\":{\"count\":1,\"firstUsedAt\":1788539488298,\"lastUsedAt\":1\
+  788539488298},\"command:gitlens.views.scm.grouped.welcome.dismiss:executed\":{\
+  \"count\":1,\"firstUsedAt\":1788594293046,\"lastUsedAt\":1788594293046},\"com\
+  mand:gitlens.views.scm.grouped.commits:executed\":{\"count\":1,\"firstUsedAt\
+  \":1788594296512,\"lastUsedAt\":1788594296512},\"command:gitlens.views.scm.gr\
+  ouped.worktrees:executed\":{\"count\":1,\"firstUsedAt\":1788594299289,\"lastU\
+  sedAt\":1788594299289},\"command:gitlens.views.scm.grouped.branches:executed\
+  \":{\"count\":1,\"firstUsedAt\":1788594302705,\"lastUsedAt\":1788594302705},\
+  \"command:gitlens.views.scm.grouped.remotes:executed\":{\"count\":1,\"firstUs\
+  edAt\":1788594304497,\"lastUsedAt\":1788594304497},\"command:gitlens.views.sc\
+  m.grouped.stashes:executed\":{\"count\":1,\"firstUsedAt\":1788594305728,\"las\
+  tUsedAt\":1788594305728},\"command:gitlens.views.scm.grouped.tags:executed\":{\
+  \"count\":1,\"firstUsedAt\":1788594306927,\"lastUsedAt\":1788594306927},\"com\
+  mand:gitlens.views.scm.grouped.contributors:executed\":{\"count\":1,\"firstUs\
+  edAt\":1788594308698,\"lastUsedAt\":1788594308698},\"command:gitlens.views.sc\
+  m.grouped.fileHistory:executed\":{\"count\":1,\"firstUsedAt\":1788594310214,\
+  \"lastUsedAt\":1788594310214},\"command:gitlens.views.scm.grouped.launchpad:e\
+  xecuted\":{\"count\":1,\"firstUsedAt\":1788594311782,\"lastUsedAt\":178859431\
+  1782},\"command:gitlens.views.scm.grouped.refresh:executed\":{\"count\":1,\"f\
+  irstUsedAt\":1788594313409,\"lastUsedAt\":1788594313409},\"command:gitlens.vi\
+  ews.launchpad.refresh:executed\":{\"count\":1,\"firstUsedAt\":1788594313409,\
+  \"lastUsedAt\":1788594313409},\"command:gitlens.graph.pull:executed\":{\"count\
+  \":1,\"firstUsedAt\":1788844791100,\"lastUsedAt\":1788844791100},\"command:gi\
+  tlens.showSettingsPage!integrations:executed\":{\"count\":1,\"firstUsedAt\":1\
+  788845541203,\"lastUsedAt\":1788845541203},\"settingsWebview:shown\":{\"count\
+  \":3,\"firstUsedAt\":1788845541204,\"lastUsedAt\":1789960127449},\"command:gi\
+  tlens.showAccountView:executed\":{\"count\":1,\"firstUsedAt\":1789960127448,\
+  \"lastUsedAt\":1789960127448},\"command:gitlens.showSettingsPage!account:exec\
+  uted\":{\"count\":1,\"firstUsedAt\":1789960127449,\"lastUsedAt\":178996012744\
+  9},\"command:gitlens.plus.reactivateProTrial:executed\":{\"count\":1,\"firstU\
+  sedAt\":1789960159550,\"lastUsedAt\":1789960159550},\"commitsView:shown\":{\"\
+  count\":1,\"firstUsedAt\":1790268453899,\"lastUsedAt\":1790268453899}},\"gitl\
+  ens:gk:8bcb4e9a-0530-4282-8a55-cb4bd62a51e8:checkin\":{\"v\":1,\"timestamp\":\
+  1788312519046,\"data\":{\"user\":{\"id\":\"8bcb4e9a-0530-4282-8a55-cb4bd62a51\
+  e8\",\"name\":\"yjdyamv\",\"email\":\"yjdyamv@tutamail.com\",\"status\":\"act\
+  ivated\",\"firstGitLensCheckIn\":null,\"createdDate\":\"2025-09-22T13:29:38.0\
+  00Z\"},\"licenses\":{\"paidLicenses\":{},\"effectiveLicenses\":{}},\"nextOptI\
+  nDate\":\"2026-02-24T00:00:00.000Z\"}},\"gitlens:gk:8bcb4e9a-0530-4282-8a55-c\
+  b4bd62a51e8:organizations\":{\"v\":1,\"timestamp\":1790871356950,\"data\":[{\
+  \"id\":\"68d14f42dd5500629a666fe2\",\"name\":\"yjdyamv's
+  organization\",\"role\":\"owner\"}]},\"gitlens:plus:trialReset:8bcb4e9a-0530-\
+  4282-8a55-cb4bd62a51e8:attempted\":true,\"gitlens:integrations:configured\":{\
+  \"github\":[]},\"gitlens:avatars\":[[\"d7bf3cafd49d54d059ff95af63398b22:64\",{\
+  \"uri\":\"https://avatars.githubusercontent.com/u/176933297?s%3D64%26v%3D4\",\
+  \"timestamp\":1786693225175}],[\"7024c0c1c7d10bd755bea931c70cabfe:64\",{\"uri\
+  \":\"https://avatars.githubusercontent.com/u/7875085?s%3D64%26v%3D4\",\"times\
+  tamp\":1787219962444}],[\"2e33a12141eca3c712f40980af08dd7d:64\",{\"uri\":\"ht\
+  tps://avatars.githubusercontent.com/u/273059?s%3D64%26v%3D4\",\"timestamp\":1\
+  787219962684}],[\"393f7f60c6a66abd14a43404d92ac282:64\",{\"uri\":\"https://ca\
+  mo.githubusercontent.com/7ef9a5ffe004953688fdd9cbd4a9d38242a106e05b72b0f097df\
+  2036f31e23a3/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f3339\
+  3366376636306336613636616264313461343334303464393261633238323f643d68747470732\
+  533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167\
+  657325324667726176617461727325324667726176617461722d757365722d3432302e706e672\
+  6723d6726733d3634\",\"timestamp\":1787978067761}],[\"1686626f48ddfaacb9b26147\
+  dd4ee522:32\",{\"uri\":\"https://avatars.githubusercontent.com/u/176933297?si\
+  ze%3D32\",\"timestamp\":0}],[\"1686626f48ddfaacb9b26147dd4ee522:64\",{\"uri\":\
+  \"https://avatars.githubusercontent.com/u/176933297?size%3D64\",\"timestamp\"\
+  :0}],[\"af2ab225b7c0eec44a8d0eba6b5c869a:64\",{\"uri\":\"https://avatars.gith\
+  ubusercontent.com/u/176933297?s%3D64%26v%3D4\",\"timestamp\":1788324354525}],[\
+  \"d7bf3cafd49d54d059ff95af63398b22:32\",{\"uri\":\"https://avatars.githubuser\
+  content.com/u/176933297?s%3D32%26v%3D4\",\"timestamp\":1789630276817}],[\"21f\
+  94d2d78c515dd3fe2bc9af7bf340b:64\",{\"uri\":\"https://avatars.githubuserconte\
+  nt.com/u/118481?s%3D64%26v%3D4\",\"timestamp\":1790131307974}],[\"1470e44dbb2\
+  f18b9309297caa686b467:32\",{\"uri\":\"https://avatars.githubusercontent.com/u\
+  /31410344?s%3D32%26v%3D4\",\"timestamp\":1790131845236}],[\"48ea49be76d0c6840\
+  3a7f3df87e3487d:32\",{\"uri\":\"https://avatars.githubusercontent.com/in/2911\
+  0?s%3D32%26v%3D4\",\"timestamp\":1790131845909}],[\"2f02de292e79c1beb3799a4ab\
+  86e605a:32\",{\"uri\":\"https://avatars.githubusercontent.com/mzmcgrat?size%3\
+  D32\",\"timestamp\":0}],[\"b50ae24c95a8575c36be0831d22c1446:32\",{\"uri\":\"h\
+  ttps://avatars.githubusercontent.com/u/11864620?size%3D32\",\"timestamp\":0}]\
+  ,[\"dcf4cf5964dfc0abb502fa1e57bf7be3:32\",{\"uri\":\"https://avatars.githubus\
+  ercontent.com/u/366087?size%3D32\",\"timestamp\":0}],[\"0c366c0f50a7aa62d8f4e\
+  233d05ce705:32\",{\"uri\":\"https://avatars.githubusercontent.com/u/410476?si\
+  ze%3D32\",\"timestamp\":0}],[\"e327469ac4a1bc143ce0e4c935e65b2f:32\",{\"uri\":\
+  \"https://avatars.githubusercontent.com/u/6129170?size%3D32\",\"timestamp\":0\
+  }],[\"936a519bceb1babd825298bcae11579b:32\",{\"uri\":\"https://avatars.github\
+  usercontent.com/u/97379698?size%3D32\",\"timestamp\":0}],[\"1470e44dbb2f18b93\
+  09297caa686b467:64\",{\"uri\":\"https://avatars.githubusercontent.com/u/31410\
+  344?s%3D64%26v%3D4\",\"timestamp\":1790131849073}],[\"48ea49be76d0c68403a7f3d\
+  f87e3487d:64\",{\"uri\":\"https://avatars.githubusercontent.com/in/29110?s%3D\
+  64%26v%3D4\",\"timestamp\":1790152553709}],[\"30e9990d70adf8f26f523cf9a6d2202\
+  6:64\",{\"uri\":\"https://avatars.githubusercontent.com/u/425716?s%3D64%26v%3\
+  D4\",\"timestamp\":1790264161960}],[\"103153bfdf449cda83b4e798be1357bf:64\",{\
+  \"uri\":\"https://avatars.githubusercontent.com/u/118480?s%3D64%26v%3D4\",\"t\
+  imestamp\":1790399409657}],[\"1dda907b6eec3c53a0e4ffd3b70a88a2:64\",{\"uri\":\
+  \"https://camo.githubusercontent.com/b870470dba3037ff87b7d9369b9958385e985147\
+  a378adc5a07a59e22f2454a0/68747470733a2f2f322e67726176617461722e636f6d2f617661\
+  7461722f31646461393037623665656333633533613065346666643362373061383861323f643\
+  d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d25\
+  3246696d6167657325324667726176617461727325324667726176617461722d757365722d343\
+  2302e706e6726723d6726733d3634\",\"timestamp\":1790402109973}]],\"gitlens:laun\
+  chpadView:groups:expanded\":[],\"gitlens:launchpad:indicator:hasInteracted\":\
+  \"2026-08-20T11:19:41.551Z\",\"gitlens:launchpad:indicator:hasLoaded\":true,\
+  \"gitlens:graph:signInGate:introVideoShown\":false,\"gitlens:plus:trialReset:\
+  voyager-enterprise:attempted\":true}"
+golang.go: '{"go.extensionVersion":"0.40.0","telemetryStartTime":"2026-04-24T15:43:25.584Z","latestGoVersions":{"timestamp":1784472693766,"goVersions":[{"description":"download
+  golang.org/dl/go1.26.5","binpath":"golang.org/dl/go1.26.5","label":"Go
+  1.26.5","available":false},{"description":"download
+  golang.org/dl/go1.25.12","binpath":"golang.org/dl/go1.25.12","label":"Go
+  1.25.12","available":false}]},"goplsSurveyConfig":"{\"prompt\":true,\"promptThisMonth\":false,\"dateComputedPromptThisMonth\":\"2026-07-03T14:19:10.205Z\"}","developerSurveyConfigState":"{\"config\":{\"StartDate\":\"2025-09-09T00:00:00.000Z\",\"EndDate\":\"2025-10-01T00:00:00.000Z\",\"URL\":\"https://google.qualtrics.com/jfe/form/SV_3wwSstC8vv4Ymkm?s=v\"},\"version\":\"v0.1.0\",\"lastDateUpdated\":\"2026-07-03T14:19:10.206Z\"}"}'
+hediet.vscode-drawio: '{"hediet.vscode-drawio.local-storage":{".drawio-config":"{\"language\":\"\",\"customFonts\":[],\"libraries\":\"general;flowchart\",\"customLibraries\":[\"L.scratchpad\"],\"plugins\":[],\"recentColors\":[\"none\",\"FFFF99\"],\"formatWidth\":0,\"createTarget\":false,\"pageFormat\":{\"x\":0,\"y\":0,\"width\":827,\"height\":1169},\"search\":true,\"showStartScreen\":true,\"gridColor\":\"light-dark(#d0d0d0,
+  #424242)\",\"darkGridColor\":\"#424242\",\"autosave\":true,\"openCounter\":0,\"version\":18,\"unit\":1,\"isRulerOn\":false,\"ui\":\"\",\"sketchMode\":false}"}}'
+hverlin.mise-vscode: '{"mise.ignoreNewVersion":"2026.4.19"}'
+JetBrains.intellij-server: '{"jetbrains.intellij.eulaAcceptedHash":"cd82e6cdaf2790f1"}'
+JetBrains.resharper-code: '{"preflight/licenseArgeement/26c5016d78a63d26":true,"preflight/dataSharingChosen":true,"usage/lspActivity/v1":false,"surveys/csat/v1/userCreatedDate":1794121376836,"licensing/lastState/v1":{"jbaLicensingState":{"accountInfo":null,"authenticationStatus":"NotAuthenticated","availableSubscriptions":[],"selectedSubscription":null,"isLicencedByOnlyNonCommercial":false},"selectedActivationCode":null,"licenseServerFlowState":null,"trialInfo":{"daysLeft":30},"isLicensed":true},"featureCards/v1":1794121376898}'
+ms-azuretools.vscode-containers: '{"containers.settings.migrated":true}'
+ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
+ms-python.python: '{"PYTHON_ENV_INFO_CACHEv2":[],"isRemoteGlobalSettingCopiedKey":true,"pylanceDefaultPromptMemento":true,"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\ADMIN\\DESKTOP\\WPS-LAYOUT","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\ADMIN\\DESKTOP\\WPS-LAYOUT"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\ADMIN\\DESKTOP\\GHLAB","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\ADMIN\\DESKTOP\\GHLAB"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\ADMIN\\DESKTOP\\JAVA-TEST","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\ADMIN\\DESKTOP\\JAVA-TEST"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\ADMIN\\DESKTOP\\PATCH_ALL","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\ADMIN\\DESKTOP\\PATCH_ALL"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\ACTIVATION_FILES","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\ACTIVATION_FILES"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\GDAL-RS-NAPI","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\GDAL-RS-NAPI"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\NODE-GDAL-ASYNC","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\NODE-GDAL-ASYNC"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\NODE-GDAL-ASYNC","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\NODE-GDAL-ASYNC"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\SEQUOIA-SQ","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\SEQUOIA-SQ"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\TEST\\TEST","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\TEST\\TEST"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\MODERN-SZU-THESIS","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\MODERN-SZU-THESIS"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\RAR-RS.WORKTREES\\PROJECT-ANALYSIS-AND-DIRECTION","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\RAR-RS.WORKTREES\\PROJECT-ANALYSIS-AND-DIRECTION"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\7-ZIP-ZSTD-NATIVE","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\7-ZIP-ZSTD-NATIVE"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\CODE-OSS-BUILD","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\CODE-OSS-BUILD"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\TUBAGREEN","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\TUBAGREEN"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\TUBA-DOWNLOADER","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\TUBA-DOWNLOADER"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\APPDATA\\ROAMING\\UV","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\APPDATA\\ROAMING\\UV"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\UVTEST","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\UVTEST"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\CONTACTPUTIANHOSPITAL","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\CONTACTPUTIANHOSPITAL"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DOWNLOADS\\VSCODE-1.134.0","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DOWNLOADS\\VSCODE-1.134.0"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\RARS","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\RARS"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\深圳无人机飞行路线规划","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\深圳无人机飞行路线规划"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\COURSE-REPORT","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\COURSE-REPORT"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\SMART-ARCHIVE-RAR","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\SMART-ARCHIVE-RAR"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\RAR-RS","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\RAR-RS"},{"key":"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key","defaultValue":[]},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\VSCODE-SMART-ARCHIVE","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\YUAN\\DESKTOP\\VSCODE-SMART-ARCHIVE"},{"key":"preferredGlobalPyInterpreter"},{"key":"isRemoteGlobalSettingCopiedKey","defaultValue":false},{"key":"autoSelectionInterpretersQueriedOnce"},{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]},{"key":"SHELL_INTEGRATION_WORKING_KEY_powershellCore"},{"key":"PYTHON_ENV_INFO_CACHEv2","defaultValue":[]},{"key":"VSCode.ABExp.FeatureData","defaultValue":{"features":[]}}],"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\VSCODE-SMART-ARCHIVE":true,"autoSelectionInterpretersQueriedOnce":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\RAR-RS":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\SMART-ARCHIVE-RAR":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\COURSE-REPORT":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\深圳无人机飞行路线规划":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\RARS":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DOWNLOADS\\VSCODE-1.134.0":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\CONTACTPUTIANHOSPITAL":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\UVTEST":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\APPDATA\\ROAMING\\UV":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\TUBA-DOWNLOADER":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\TUBAGREEN":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\CODE-OSS-BUILD":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\7-ZIP-ZSTD-NATIVE":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\RAR-RS.WORKTREES\\PROJECT-ANALYSIS-AND-DIRECTION":true,"VSCode.ABExp.FeatureData":{"features":["config.chat.agentHost.byokModels.enabled","config.chat.customizations.promptMigration.enabled","config.chat.subagentTool.customAgents","config.github.copilot.nextEditSuggestions.enabled","config.markdown.experimental.richLinks.enabledcf","config.python.analysis.enableMangleNamecf","config.python.locator","config.python.useEnvironmentsExtension","config.sessions.layout.singlePaneDetailPanel","config.workbench.editor.useModal","config.workbench.experimental.modernUI","copilotappmodcontextmenuenabled","copilotappmodproblemsviewenabledcf","copilotchat.disableReplaceStringHealing","copilotchat.hiddenModelBEditTool","copilotchat.ruffDiagnosticsCookbook","copilotsearchagentenabled","copilottransparenttokenrefresh","copilot_ci","cveremediatoragentenabledcf","dynamic_mcpcf","extensionEnabledApiProposalsFallback","featureflag-23-1","github.copilot.chat.agentDebugLog.enabled","github.copilot.chat.agentDebugLog.fileLogging.enabled","ideenablecopilotnes","ideenablecopilotsemanticsearch","livesharecontinuousaacf","mindaroBinariesVersion","pylancePyreflyVersion","registerNuGetMcpServerEnabled","suggestNativePreview","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;binariesv615:30325510;nativeloc1:31344060;copilot_t_ci:31333650;pythonrdcb7:31342333;6518g693:31463988;aj953862:31281341;envsactivate1:31551504;3efgi100_wstrepl:31403338;839jf696:31457053;ec5jj548:31422691;cp_cls_t_966_ss:31526232;cp_cls_c_1081:31454833;ei9d7968:31496641;cp_cls_t_1082:31535311;logging_enabled_new:31498466;jb_cp_cls_t_632:31543129;ha629193:31508444;jbcp_cls_pctr_t:31531130;cp_intellij_t_nes:31548657;ihg5j128:31534457;enable_editor_pane_layout:31569726;allow-none:31555437;c7c27ce7:31554789;1h923230:31564177;0dg73464:31554319;treatment-23-1:31555779;unuse_dynamic_mcp:31555281;0d8dfbc3:31570291;0c1h4866:31566224;mangle-name-control:31572633;2bfb8b39:31576696;","configs":[{"Id":"vscode","Parameters":{"config.chat.agentHost.byokModels.enabled":true,"config.chat.customizations.promptMigration.enabled":true,"config.chat.subagentTool.customAgents":true,"config.github.copilot.nextEditSuggestions.enabled":true,"config.markdown.experimental.richLinks.enabled":false,"config.python.analysis.enableMangleName":false,"config.python.locator":"native","config.python.useEnvironmentsExtension":true,"config.sessions.layout.singlePaneDetailPanel":true,"config.workbench.editor.useModal":"some","config.workbench.experimental.modernUI":true,"copilotappmodcontextmenuenabled":true,"copilotappmodproblemsviewenabled":false,"copilotchat.disableReplaceStringHealing":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilotchat.ruffDiagnosticsCookbook":true,"copilotsearchagentenabled":true,"copilottransparenttokenrefresh":true,"copilot_ci":true,"cveremediatoragentenabled":false,"dynamic_mcp":false,"extensionEnabledApiProposalsFallback":"none","featureflag-23-1":true,"github.copilot.chat.agentDebugLog.enabled":true,"github.copilot.chat.agentDebugLog.fileLogging.enabled":true,"ideenablecopilotnes":true,"ideenablecopilotsemanticsearch":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","pylancePyreflyVersion":"1.2.0-dev.2","registerNuGetMcpServerEnabled":true,"suggestNativePreview":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\MODERN-SZU-THESIS":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\TEST\\TEST":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\SEQUOIA-SQ":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\NODE-GDAL-ASYNC":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\NODE-GDAL-ASYNC":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\GDAL-RS-NAPI":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\YUAN\\DESKTOP\\ACTIVATION_FILES":true,"preferredGlobalPyInterpreter":{"id":"C:\\USERS\\YUAN\\APPDATA\\ROAMING\\UV\\PYTHON\\CPYTHON-3.12.13-WINDOWS-X86_64-NONE\\PYTHON.EXE","sysPrefix":"C:\\Users\\yuan\\AppData\\Roaming\\uv\\python\\cpython-3.12.13-windows-x86_64-none","envType":"Unknown","envName":"","envPath":"","path":"C:\\Users\\yuan\\AppData\\Roaming\\uv\\python\\cpython-3.12.13-windows-x86_64-none\\python.exe","architecture":3,"sysVersion":"3.12.13
+  (main, Aug  7 2026, 02:26:41) [MSC v.1944 64 bit
+  (AMD64)]","version":{"raw":"3.12.13","major":3,"minor":12,"patch":13,"build":[],"prerelease":["final","0"]},"displayName":"Python
+  3.12.13 64-bit","detailedDisplayName":"Python 3.12.13
+  64-bit"},"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\ADMIN\\DESKTOP\\PATCH_ALL":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\ADMIN\\DESKTOP\\JAVA-TEST":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\ADMIN\\DESKTOP\\GHLAB":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\ADMIN\\DESKTOP\\WPS-LAYOUT":true,"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key":["C:\\USERS\\ADMIN\\DESKTOP\\WPS-LAYOUT","C:\\USERS\\ADMIN\\DESKTOP\\GHLAB","C:\\USERS\\ADMIN\\DESKTOP\\JAVA-TEST","C:\\USERS\\ADMIN\\DESKTOP\\PATCH_ALL","C:\\USERS\\YUAN\\DESKTOP\\ACTIVATION_FILES","C:\\USERS\\YUAN\\DESKTOP\\GDAL-RS-NAPI","C:\\USERS\\YUAN\\NODE-GDAL-ASYNC","C:\\USERS\\YUAN\\DESKTOP\\NODE-GDAL-ASYNC","C:\\USERS\\YUAN\\DESKTOP\\SEQUOIA-SQ","C:\\USERS\\YUAN\\DESKTOP\\TEST\\TEST","C:\\USERS\\YUAN\\DESKTOP\\MODERN-SZU-THESIS","C:\\USERS\\YUAN\\DESKTOP\\RAR-RS.WORKTREES\\PROJECT-ANALYSIS-AND-DIRECTION","C:\\USERS\\YUAN\\DESKTOP\\7-ZIP-ZSTD-NATIVE","C:\\USERS\\YUAN\\DESKTOP\\CODE-OSS-BUILD","C:\\USERS\\YUAN\\DESKTOP\\TUBAGREEN","C:\\USERS\\YUAN\\DESKTOP\\TUBA-DOWNLOADER","C:\\USERS\\YUAN\\APPDATA\\ROAMING\\UV","C:\\USERS\\YUAN\\DESKTOP\\UVTEST","C:\\USERS\\YUAN\\DESKTOP\\CONTACTPUTIANHOSPITAL","C:\\USERS\\YUAN\\DOWNLOADS\\VSCODE-1.134.0","C:\\USERS\\YUAN\\DESKTOP\\RARS","C:\\USERS\\YUAN\\DESKTOP\\深圳无人机飞行路线规划","C:\\USERS\\YUAN\\DESKTOP\\COURSE-REPORT","C:\\USERS\\YUAN\\DESKTOP\\SMART-ARCHIVE-RAR","C:\\USERS\\YUAN\\DESKTOP\\RAR-RS","C:\\USERS\\YUAN\\DESKTOP\\VSCODE-SMART-ARCHIVE"]}'
+ms-python.vscode-python-envs: '{"globalSettingsMigration.systemEnvManagerRemoved":true,"ms-python.vscode-python-envs:system:GLOBAL_SELECTED":"c:\\Users\\admin\\AppData\\Roaming\\uv\\python\\cpython-3.12.16-windows-x86_64-none\\python.exe"}'
+ms-toolsai.jupyter: '{"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///c%3A/Users/yuan/AppData/Roaming/jupyter/kernels","INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true}'
+ms-vscode-remote.remote-containers: '{"VSCode.ABExp.FeatureData":{"features":["config.chat.agentHost.byokModels.enabled","config.chat.customizations.promptMigration.enabled","config.chat.subagentTool.customAgents","config.github.copilot.nextEditSuggestions.enabled","config.markdown.experimental.richLinks.enabledcf","config.sessions.layout.singlePaneDetailPanel","config.workbench.editor.useModal","config.workbench.experimental.modernUI","copilotappmodcontextmenuenabled","copilotappmodproblemsviewenabledcf","copilotchat.disableReplaceStringHealing","copilotchat.hiddenModelBEditTool","copilotsearchagentenabled","copilottransparenttokenrefresh","copilot_ci","cveremediatoragentenabledcf","dynamic_mcpcf","extensionEnabledApiProposalsFallback","featureflag-23-1","github.copilot.chat.agentDebugLog.enabled","github.copilot.chat.agentDebugLog.fileLogging.enabled","ideenablecopilotnes","ideenablecopilotsemanticsearch","livesharecontinuousaacf","mindaroBinariesVersion","registerNuGetMcpServerEnabled","suggestNativePreview","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;binariesv615:30325510;copilot_t_ci:31333650;6518g693:31463988;aj953862:31281341;3efgi100_wstrepl:31403338;839jf696:31457053;ec5jj548:31422691;cp_cls_t_966_ss:31526232;cp_cls_c_1081:31454833;ei9d7968:31496641;cp_cls_t_1082:31535311;logging_enabled_new:31498466;jb_cp_cls_t_632:31543129;ha629193:31508444;jbcp_cls_pctr_t:31531130;cp_intellij_t_nes:31548657;ihg5j128:31534457;enable_editor_pane_layout:31569726;allow-none:31555437;c7c27ce7:31554789;1h923230:31564177;treatment-23-1:31555779;unuse_dynamic_mcp:31555281;0d8dfbc3:31570291;0c1h4866:31566224;2bfb8b39:31576696;","configs":[{"Id":"vscode","Parameters":{"config.chat.agentHost.byokModels.enabled":true,"config.chat.customizations.promptMigration.enabled":true,"config.chat.subagentTool.customAgents":true,"config.github.copilot.nextEditSuggestions.enabled":true,"config.markdown.experimental.richLinks.enabled":false,"config.sessions.layout.singlePaneDetailPanel":true,"config.workbench.editor.useModal":"some","config.workbench.experimental.modernUI":true,"copilotappmodcontextmenuenabled":true,"copilotappmodproblemsviewenabled":false,"copilotchat.disableReplaceStringHealing":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilotsearchagentenabled":true,"copilottransparenttokenrefresh":true,"copilot_ci":true,"cveremediatoragentenabled":false,"dynamic_mcp":false,"extensionEnabledApiProposalsFallback":"none","featureflag-23-1":true,"github.copilot.chat.agentDebugLog.enabled":true,"github.copilot.chat.agentDebugLog.fileLogging.enabled":true,"ideenablecopilotnes":true,"ideenablecopilotsemanticsearch":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","registerNuGetMcpServerEnabled":true,"suggestNativePreview":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+ms-vscode-remote.remote-wsl: '{"wsl.downloadInProgress":true,"wsl.lastUpdateCheck":1794294717855,"VSCode.ABExp.FeatureData":{"features":["config.chat.agentHost.byokModels.enabled","config.chat.customizations.promptMigration.enabled","config.chat.subagentTool.customAgents","config.github.copilot.nextEditSuggestions.enabled","config.markdown.experimental.richLinks.enabledcf","config.sessions.layout.singlePaneDetailPanel","config.workbench.editor.useModal","config.workbench.experimental.modernUI","copilotappmodcontextmenuenabled","copilotappmodproblemsviewenabledcf","copilotchat.disableReplaceStringHealing","copilotchat.hiddenModelBEditTool","copilotsearchagentenabled","copilottransparenttokenrefresh","copilot_ci","cveremediatoragentenabledcf","dynamic_mcpcf","extensionEnabledApiProposalsFallback","featureflag-23-1","github.copilot.chat.agentDebugLog.enabled","github.copilot.chat.agentDebugLog.fileLogging.enabled","ideenablecopilotnes","ideenablecopilotsemanticsearch","livesharecontinuousaacf","mindaroBinariesVersion","registerNuGetMcpServerEnabled","suggestNativePreview","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;binariesv615:30325510;copilot_t_ci:31333650;6518g693:31463988;aj953862:31281341;3efgi100_wstrepl:31403338;839jf696:31457053;ec5jj548:31422691;cp_cls_t_966_ss:31526232;cp_cls_c_1081:31454833;ei9d7968:31496641;cp_cls_t_1082:31535311;logging_enabled_new:31498466;jb_cp_cls_t_632:31543129;ha629193:31508444;jbcp_cls_pctr_t:31531130;cp_intellij_t_nes:31548657;ihg5j128:31534457;enable_editor_pane_layout:31569726;allow-none:31555437;c7c27ce7:31554789;1h923230:31564177;treatment-23-1:31555779;unuse_dynamic_mcp:31555281;0d8dfbc3:31570291;0c1h4866:31566224;2bfb8b39:31576696;","configs":[{"Id":"vscode","Parameters":{"config.chat.agentHost.byokModels.enabled":true,"config.chat.customizations.promptMigration.enabled":true,"config.chat.subagentTool.customAgents":true,"config.github.copilot.nextEditSuggestions.enabled":true,"config.markdown.experimental.richLinks.enabled":false,"config.sessions.layout.singlePaneDetailPanel":true,"config.workbench.editor.useModal":"some","config.workbench.experimental.modernUI":true,"copilotappmodcontextmenuenabled":true,"copilotappmodproblemsviewenabled":false,"copilotchat.disableReplaceStringHealing":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilotsearchagentenabled":true,"copilottransparenttokenrefresh":true,"copilot_ci":true,"cveremediatoragentenabled":false,"dynamic_mcp":false,"extensionEnabledApiProposalsFallback":"none","featureflag-23-1":true,"github.copilot.chat.agentDebugLog.enabled":true,"github.copilot.chat.agentDebugLog.fileLogging.enabled":true,"ideenablecopilotnes":true,"ideenablecopilotsemanticsearch":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","registerNuGetMcpServerEnabled":true,"suggestNativePreview":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"wsl.latestDownloadedCommit":"c4453f8ea430795f941c1b2ff6c9321135a74a02"}'
+ms-vscode.cmake-tools: '{"c:\\Users\\yuan\\Desktop\\深圳无人机飞行路线规划activeVariantSettings":[["buildType","debug"]],"kitsVersionSaved":2,"c:\\Users\\yuan\\Desktop\\rar-rsactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\yuan\\Desktop\\node-gdal-asyncactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\yuan\\node-gdal-asyncactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\yuan\\Desktop\\gdal-rs-napiactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\yuan\\Desktop\\keepassxcactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\admin\\Desktop\\java-testactiveVariantSettings":[["buildType","debug"]]}'
+ms-vscode.remote-repositories: '{"version":"0.42.0"}'
+ms-vscode.remote-server: '{"tunnelClearSessionOnNextProvider":false,"remote-tunnels.folder-history":{}}'
+myriad-dreamin.tinymist: '{"tinymist.gpuViewer.windowState.v1":{"schema_version":1,"window":{"inner_width":1000,"inner_height":1055,"outer_x":920,"outer_y":0}}}'
+oven.bun-vscode: '{"BUN_INSPECT_CONNECT_TO":{"type":"tcp","port":64471}}'
+redhat.vscode-yaml: '{"json-schema-key":{"https://www.schemastore.org/github-workflow.json":{"eTag":"W/\"6ac44d4f-1cf49\"","schemaPath":"c:\\Users\\yuan\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\00db8df54019c8e656b5f465c5efa835"},"https://raw.githubusercontent.com/woodpecker-ci/woodpecker/main/pipeline/frontend/yaml/linter/schema/schema.json":{"eTag":"W/\"1d27637f93207ff4bfecfcdf24d4401eff2b9288adf50ca6457ce48f65f306cc\"","schemaPath":"c:\\Users\\yuan\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\a4ab7a53a041fecccf1b3c613c8c2032"}}}'
+ShahilKumar.docxreader: '{"hasShownWelcome":true}'
+shd101wyy.markdown-preview-enhanced: '{"markdown-preview-enhanced.ownedEditorAssociations":[]}'
+Slint.slint: '{"lastUsage":1789474085271}'
+vadimcn.vscode-lldb: '{"lastLaunchedVersion":"1.12.3"}'
+vscjava.vscode-java-pack: "{}"
+vscode-icons-team.vscode-icons: '{"vsicons":{"version":"13.0.0","status":2,"welcomeShown":true}}'
+Vue.volar: '{"vue.welcome":"3.3.0"}'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.voiceTranscriptsContainer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.chat.sessions","pinned":false,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.mise-panel","pinned":true,"visible":false,"order":19},{"id":"workbench.view.extension.flutter","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.containersView","pinned":true,"visible":false,"order":22},{"id":"workbench.view.extension.vscode-edge-devtools-view","pinned":false,"visible":false,"order":23},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":25},{"id":"workbench.view.extension.qtDevelopment","pinned":false,"visible":false,"order":10},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":20},{"id":"workbench.view.extension.conan-extension","pinned":false,"visible":false,"order":21},{"id":"workbench.view.extension.flutterPropertyEditorContainer","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.python","pinned":true,"visible":false,"order":24},{"id":"workbench.view.extension.sidebarDevToolsContainer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.sidebarDevToolsInspectorContainer","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.cmake-view","pinned":true,"visible":false,"order":26},{"id":"workbench.view.extension.sidebarDevToolsDeepLinksContainer","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.sidebarWidgetPreviewContainer","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.makefile__viewContainer","pinned":false,"visible":false,"order":28},{"id":"workbench.view.extension.PowerShell","pinned":true,"visible":false,"order":29},{"id":"workbench.view.extension.tinymist-activitybar","pinned":true,"visible":false,"order":30},{"id":"workbench.view.extension.rustSyntaxTreeContainer","pinned":true,"visible":false,"order":31},{"id":"workbench.view.extension.xmake-explorer","pinned":true,"visible":false,"order":32},{"id":"workbench.view.extension.github-actions","pinned":true,"visible":false,"order":39},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":27},{"id":"workbench.view.extension.project-manager","pinned":true,"visible":false,"order":29},{"id":"workbench.view.extension.ports-explorer","pinned":true,"visible":false,"order":19},{"id":"workbench.view.extension.gitlensInspect","pinned":false,"visible":false,"order":17},{"id":"workbench.panel.testResults","pinned":false,"visible":false,"order":3},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":18},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
+workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
+  \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
+  in\":true,\"views\":[{},{},{},{},{\"when\":\"npm:showScriptExplorer\"},{\"when\
+  \":\"bazel.feature.WorkspaceTree.enabled &&
+  bazel.haveWorkspace\"},{\"when\":\"xmlTreeViewEnabled\"},{\"when\":\"go.showE\
+  xplorer\"},{\"when\":\"go.showPackageOutline\"},{\"when\":\"clangd.typeHierar\
+  chyVisible\"},{\"when\":\"clangd.memoryUsage.hasData\"},{\"when\":\"clangd.as\
+  t.hasData\"},{\"when\":\"config.rust-analyzer.showDependenciesExplorer &&
+  inRustProject\"},{\"when\":\"config.dart.enablePub &&
+  dart-code:anyProjectLoaded\"},{\"when\":\"resharper.activated\"}]},{\"id\":\"\
+  workbench.view.search\",\"themeIcon\":{\"id\":\"search-view-icon\"},\"name\":\
+  \"Search\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"workbench.view.scm\",\
+  \"themeIcon\":{\"id\":\"source-control-view-icon\"},\"name\":\"Source
+  Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
+  scm.providerCount != '0'\"},{},{\"when\":\"scm.historyProviderCount &&
+  scm.historyProviderCount !=
+  '0'\"},{\"when\":\"!config.gitlens.views.scm.grouped.views.repositories &&
+  !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:repositories\"},{\"when\":\"!config.gitlens.\
+  views.scm.grouped.views.commits && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:commits\"},{\"when\":\"!config.gitlens.views\
+  .scm.grouped.views.branches && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:branches\"},{\"when\":\"!config.gitlens.view\
+  s.scm.grouped.views.remotes && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:remotes\"},{\"when\":\"!config.gitlens.views\
+  .scm.grouped.views.stashes && !gitlens:disabled && !gitlens:hasVirtualFolders
+  &&
+  !gitlens:views:scm:grouped:views:stashes\"},{\"when\":\"!config.gitlens.views\
+  .scm.grouped.views.tags && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:tags\"},{\"when\":\"!config.gitlens.views.sc\
+  m.grouped.views.worktrees && !gitlens:disabled && !gitlens:hasVirtualFolders
+  && !gitlens:plus:disabled &&
+  !gitlens:views:scm:grouped:views:worktrees\"},{\"when\":\"!config.gitlens.vie\
+  ws.scm.grouped.views.contributors && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:contributors\"},{\"when\":\"config.gitlens.v\
+  iews.scm.grouped.views.branches && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.commits && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.contributors && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.launchpad && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.remotes && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.repositories && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.searchAndCompare && !gitlens:disabled
+  || config.gitlens.views.scm.grouped.views.stashes && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.tags && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.worktrees && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:branches && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:commits && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:contributors && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:launchpad && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:remotes && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:repositories && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:searchAndCompare && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:stashes && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:tags && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:worktrees &&
+  !gitlens:disabled\"}]},{\"id\":\"workbench.view.voiceTranscriptsContainer\",\
+  \"themeIcon\":{\"id\":\"voice-transcripts-view-icon\"},\"name\":\"Voice
+  Transcripts\",\"isBuiltin\":true,\"views\":[{\"when\":\"voiceTranscripts.show\
+  View\"}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-i\
+  con\"},\"name\":\"Run and
+  Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
+  'default'\"},{\"when\":\"breakpointsExist || hasDebugged || debugUx ==
+  'default'\"},{\"when\":\"debugType == 'pwa-chrome' || debugType ==
+  'pwa-editor-browser' || debugType ==
+  'pwa-msedge'\"},{\"when\":\"jsDebugHasExcludedCallers && debugType ==
+  'node-terminal' || jsDebugHasExcludedCallers && debugType == 'pwa-chrome' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-editor-browser' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-extensionHost' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-msedge' ||
+  jsDebugHasExcludedCallers && debugType ==
+  'pwa-node'\"},{\"when\":\"jsDebugNetworkAvailable\"},{\"when\":\"inDebugMode
+  && debugType == 'firefox'\"},{\"when\":\"inDebugMode && debugType ==
+  'firefox'\"},{\"when\":\"inDebugMode && lldb-dap.showModules && debugType ==
+  'lldb-dap'\"},{\"when\":\"debugType == 'lldb'\"},{\"when\":\"debugType ==
+  'lldb'\"}]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"remote-\
+  explorer-view-icon\"},\"name\":\"Remote
+  Explorer\",\"isBuiltin\":true,\"views\":[{},{},{\"when\":\"!hideConnectComman\
+  ds\"},{\"when\":\"true\"},{\"when\":\"remote-containers:showDetails &&
+  !hideConnectCommands\"},{\"when\":\"!hideConnectCommands\"}]},{\"id\":\"workb\
+  ench.view.chat.sessions\",\"isBuiltin\":false},{\"id\":\"workbench.view.exten\
+  sion.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"\
+  isBuiltin\":true,\"views\":[{\"when\":\"testing.providerCount >
+  0\"},{\"when\":\"testing.isTestCoverageOpen\"},{\"when\":\"go.hasProfiles\"},{\
+  \"when\":\"testExplorerVisible\"}]},{\"id\":\"workbench.view.extension.refere\
+  nces-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"References\",\"i\
+  sBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\"}]},{\"id\":\
+  \"workbench.view.extension.copilot-chat\",\"iconUrl\":{\"$mid\":1,\"path\":\"\
+  /c:/Microsoft VS
+  Code/c4453f8ea4/resources/app/extensions/copilot/assets/debug-icon.svg\",\"sc\
+  heme\":\"file\"},\"name\":\"Chat
+  Debug\",\"isBuiltin\":false,\"views\":[{\"when\":\"github.copilot.chat.showLo\
+  gView\"}]},{\"id\":\"workbench.view.extension.context-inspector\",\"themeIcon\
+  \":{\"id\":\"inspect\"},\"name\":\"Language Context
+  Inspector\",\"isBuiltin\":false,\"views\":[{\"when\":\"github.copilot.chat.sh\
+  owContextInspectorView\"}]},{\"id\":\"workbench.view.extension.mise-panel\",\
+  \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/hverlin.mise-vscod\
+  e-1.32.0/resources/icon.svg\",\"scheme\":\"file\"},\"name\":\"Mise\",\"isBuil\
+  tin\":false,\"views\":[{\"when\":\"true\"},{\"when\":\"true\"},{\"when\":\"tr\
+  ue\"},{\"when\":\"mise.hasDaemons\"},{\"when\":\"true\"}]},{\"id\":\"workbenc\
+  h.view.extension.flutter\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DAT\
+  A_PATH%%/dart-code.dart-code-3.146.0/media/icons/sidebar/flutter.svg\",\"sche\
+  me\":\"file\"},\"name\":\"Flutter\",\"isBuiltin\":false,\"views\":[{\"when\":\
+  \"dart-code:anyFlutterProjectLoaded\"}]},{\"id\":\"workbench.view.extension.g\
+  ithub-copilot-completions-debugger-panel\",\"isBuiltin\":false},{\"id\":\"wor\
+  kbench.view.extension.containersView\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%E\
+  XTENSION_DATA_PATH%%/ms-azuretools.vscode-containers-2.5.3/resources/Containe\
+  rTools.svg\",\"scheme\":\"file\"},\"name\":\"Containers\",\"isBuiltin\":false,\
+  \"views\":[{},{},{},{},{},{},{}]},{\"id\":\"workbench.view.extension.vscode-e\
+  dge-devtools-view\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%\
+  %/ms-edgedevtools.vscode-edge-devtools-2.1.14/resources/viewIcon.svg\",\"sche\
+  me\":\"file\"},\"name\":\"Microsoft Edge
+  Tools\",\"isBuiltin\":false,\"views\":[{},{}]},{\"id\":\"workbench.view.exten\
+  sion.jupyter\",\"themeIcon\":{\"id\":\"notebook\"},\"name\":\"Jupyter\",\"isB\
+  uiltin\":false,\"views\":[]},{\"id\":\"workbench.view.extension.qtDevelopment\
+  \",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.latex-workshop-act\
+  ivitybar\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/james-y\
+  u.latex-workshop-10.20.0/icons/activity-bar.svg\",\"scheme\":\"file\"},\"name\
+  \":\"LaTeX\",\"isBuiltin\":false,\"views\":[{\"when\":\"latex-workshop:enabled\
+  \"},{\"when\":\"latex-workshop:enabled\"},{\"when\":\"latex-workshop:enabled\
+  \"}]},{\"id\":\"workbench.view.extension.conan-extension\",\"iconUrl\":{\"$mid\
+  \":1,\"path\":\"%%EXTENSION_DATA_PATH%%/konicy.conan-extension-0.0.7/img/icon\
+  .svg\",\"scheme\":\"file\"},\"name\":\"Conan
+  Extension\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.exte\
+  nsion.flutterPropertyEditorContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%E\
+  XTENSION_DATA_PATH%%/dart-code.dart-code-3.146.0/media/icons/sidebar/property\
+  _editor.svg\",\"scheme\":\"file\"},\"name\":\"Flutter Property
+  Editor\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterProje\
+  ctLoaded &&
+  dart-code:flutterPropertyEditorSupported\"}]},{\"id\":\"workbench.view.extens\
+  ion.python\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-py\
+  thon.vscode-python-envs-1.42.0-win32-x64/files/logo.svg\",\"scheme\":\"file\"\
+  },\"name\":\"Python\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.pytho\
+  n.useEnvironmentsExtension &&
+  python-envs.workspaceHasPython\"},{\"when\":\"config.python.useEnvironmentsEx\
+  tension &&
+  python-envs.workspaceHasPython\"}]},{\"id\":\"workbench.view.extension.sideba\
+  rDevToolsContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH\
+  %%/dart-code.dart-code-3.146.0/media/icons/sidebar/devtools.svg\",\"scheme\":\
+  \"file\"},\"name\":\"Flutter
+  DevTools\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterPro\
+  jectLoaded &&
+  dart-code:devToolsSidebar.cpu-profiler\"},{\"when\":\"dart-code:anyFlutterPro\
+  jectLoaded &&
+  dart-code:devToolsSidebar.memory\"},{\"when\":\"dart-code:anyFlutterProjectLo\
+  aded &&
+  dart-code:devToolsSidebar.performance\"},{\"when\":\"dart-code:anyFlutterProj\
+  ectLoaded &&
+  dart-code:devToolsSidebar.network\"},{\"when\":\"dart-code:anyFlutterProjectL\
+  oaded &&
+  dart-code:devToolsSidebar.logging\"}]},{\"id\":\"workbench.view.extension.sid\
+  ebarDevToolsInspectorContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSI\
+  ON_DATA_PATH%%/dart-code.dart-code-3.146.0/media/icons/sidebar/inspector.svg\
+  \",\"scheme\":\"file\"},\"name\":\"Flutter DevTools:
+  Inspector\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterPr\
+  ojectLoaded &&
+  dart-code:devToolsSidebar.inspector\"}]},{\"id\":\"workbench.view.extension.c\
+  make-view\",\"themeIcon\":{\"id\":\"cmake-tools-cmake-view-2\"},\"name\":\"CM\
+  ake\",\"isBuiltin\":false,\"views\":[{\"when\":\"cmake:isInitializing &&
+  !cmake:enableFullFeatureSet\"},{\"when\":\"cmake:enableFullFeatureSet\"},{\"w\
+  hen\":\"cmake:enableFullFeatureSet\"},{\"when\":\"cmake:enableFullFeatureSet\
+  \"},{\"when\":\"cmake:enableFullFeatureSet\"}]},{\"id\":\"workbench.view.exte\
+  nsion.sidebarDevToolsDeepLinksContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"\
+  %%EXTENSION_DATA_PATH%%/dart-code.dart-code-3.146.0/media/icons/sidebar/deep_\
+  links.svg\",\"scheme\":\"file\"},\"name\":\"Flutter DevTools: Deep
+  Links\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterProjec\
+  tLoaded &&
+  dart-code:devToolsSidebar.deep-links\"}]},{\"id\":\"workbench.view.extension.\
+  sidebarWidgetPreviewContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSIO\
+  N_DATA_PATH%%/dart-code.dart-code-3.146.0/media/icons/sidebar/widget_preview.\
+  svg\",\"scheme\":\"file\"},\"name\":\"Flutter Widget
+  Preview\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterProj\
+  ectLoaded &&
+  dart-code:sidebar.widgetPreview\"}]},{\"id\":\"workbench.view.extension.makef\
+  ile__viewContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH\
+  %%/ms-vscode.makefile-tools-0.12.17/res/viewcontainer.svg\",\"scheme\":\"file\
+  \"},\"name\":\"Makefile\",\"isBuiltin\":false,\"views\":[{\"when\":\"isWorksp\
+  aceTrusted ||
+  makefile:testing\"}]},{\"id\":\"workbench.view.extension.PowerShell\",\"theme\
+  Icon\":{\"id\":\"terminal-powershell\"},\"name\":\"PowerShell\",\"isBuiltin\"\
+  :false,\"views\":[{\"when\":\"config.powershell.sideBar.CommandExplorerVisibi\
+  lity\"}]},{\"id\":\"workbench.view.extension.tinymist-activitybar\",\"iconUrl\
+  \":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/myriad-dreamin.tinymist-0.1\
+  5.12-win32-x64/icons/ti.png\",\"scheme\":\"file\"},\"name\":\"Tinymist\",\"is\
+  Builtin\":false,\"views\":[{\"when\":\"ext.tinymistActivated\"},{\"when\":\"e\
+  xt.tinymistActivated &&
+  ext.tinymistDevKit\"},{\"when\":\"ext.tinymistActivated\"},{\"when\":\"ext.ti\
+  nymistActivated\"},{\"when\":\"ext.tinymistActivated\"},{\"when\":\"ext.tinym\
+  istActivated\"},{\"when\":\"ext.tinymistActivated\"}]},{\"id\":\"workbench.vi\
+  ew.extension.rustSyntaxTreeContainer\",\"themeIcon\":{\"id\":\"list-tree\"},\
+  \"name\":\"Rust Syntax
+  Tree\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.rust-analyzer.showSy\
+  ntaxTree &&
+  inRustProject\"}]},{\"id\":\"workbench.view.extension.xmake-explorer\",\"icon\
+  Url\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/tboox.xmake-vscode-2.6.0\
+  /res/logo-mono.svg\",\"scheme\":\"file\"},\"name\":\"XMake\",\"isBuiltin\":fa\
+  lse,\"views\":[{\"when\":\"xmakeEnabled\"},{\"when\":\"xmakeEnabled\"}]},{\"id\
+  \":\"workbench.view.extension.github-actions\",\"isBuiltin\":false},{\"id\":\
+  \"workbench.view.extensions\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\
+  \"name\":\"Extensions\",\"isBuiltin\":true,\"views\":[{\"when\":\"defaultExte\
+  nsionViews && extensionsGalleryStatus == 'accessDenied' ||
+  defaultExtensionViews && extensionsGalleryStatus == 'requiresSignIn' ||
+  searchMarketplaceExtensions && extensionsGalleryStatus == 'accessDenied' ||
+  searchMarketplaceExtensions && extensionsGalleryStatus ==
+  'requiresSignIn'\"},{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchEx\
+  tensionUpdates ||
+  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
+  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
+  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
+  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
+  en\":\"defaultExtensionViews && hasGallery &&
+  !config.extensions.showRecommendationsOnlyOnDemand &&
+  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledMcpServers && !chatSetupDisabledInWorkspace &&
+  !chatSetupHidden\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledAgentPlugins && !chatSetupDisabledInWorkspace &&
+  !chatSetupHidden\"},{\"when\":\"hasGallery &&
+  searchMarketplaceExtensions\"},{\"when\":\"installedExtensions ||
+  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
+  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
+  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
+  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
+  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
+  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"},{\"when\":\"sea\
+  rchRestartRequiredExtensions\"},{\"when\":\"searchAgentPlugins &&
+  !chatSetupDisabledInWorkspace &&
+  !chatSetupHidden\"},{\"when\":\"searchMcpServers &&
+  !chatSetupDisabledInWorkspace &&
+  !chatSetupHidden\"}]},{\"id\":\"workbench.view.extension.hexExplorer\",\"icon\
+  Url\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-vscode.hexeditor-1.11\
+  .1/panel-icon.svg\",\"scheme\":\"file\"},\"name\":\"Hex
+  Editor\",\"isBuiltin\":false,\"views\":[{\"when\":\"hexEditor:showSidebarInsp\
+  ector\"}]},{\"id\":\"workbench.view.extension.project-manager\",\"isBuiltin\"\
+  :false},{\"id\":\"workbench.view.extension.ports-explorer\",\"isBuiltin\":fal\
+  se},{\"id\":\"workbench.view.extension.gitlensInspect\",\"themeIcon\":{\"id\":\
+  \"gitlens-gitlens-inspect\"},\"name\":\"GitLens
+  Inspect\",\"isBuiltin\":false,\"views\":[{\"when\":\"!gitlens:disabled\"},{\"\
+  when\":\"gitlens:views:pullRequest:visible &&
+  !gitlens:disabled\"},{\"when\":\"!gitlens:disabled &&
+  !gitlens:hasVirtualFolders\"},{\"when\":\"!config.gitlens.views.scm.grouped.v\
+  iews.fileHistory && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:fileHistory\"},{\"when\":\"!gitlens:disabled
+  && !gitlens:plus:disabled || !gitlens:disabled &&
+  gitlens:plus:disabled:view:overrides =~
+  /(?:^|\\\\|)gitlens\\\\.views\\\\.timeline(?:\\\\||$)/\"},{\"when\":\"!config\
+  .gitlens.views.scm.grouped.views.searchAndCompare && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:searchAndCompare\"}]},{\"id\":\"workbench.pa\
+  nel.testResults\",\"themeIcon\":{\"id\":\"test-results-icon\"},\"name\":\"Test
+  Results\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.hasAnyResults\"}]\
+  },{\"id\":\"workbench.view.extension.gitlensPatch\",\"themeIcon\":{\"id\":\"g\
+  itlens-cloud-patch\"},\"name\":\"GitLens
+  Patch\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.gitlens.cloudPatche\
+  s.enabled && gitlens:views:patchDetails:mode &&
+  !gitlens:untrusted\"}]},{\"id\":\"workbench.view.sync\",\"themeIcon\":{\"id\":\
+  \"settings-sync-view-icon\"},\"name\":\"Settings
+  Sync\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncConflictsView &&
+  hasConflicts\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews\"},{\"when\":\"enableS\
+  yncActivityViews\"}]},{\"id\":\"workbench.view.editSessions\",\"themeIcon\":{\
+  \"id\":\"edit-sessions-view-icon\"},\"name\":\"Cloud
+  Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
+  ]"
+workbench.activity.showAccounts: "true"
+workbench.activityBar.location: default
+workbench.agentsession.welcomeComplete: "true"
+workbench.auxiliaryBar.empty: "false"
+workbench.auxiliaryBar.lastNonMaximizedSize: "194"
+workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1},{"id":"workbench.view.extension.kilo-code-ActivityBar","pinned":true,"visible":false,"order":21},{"id":"workbench.viewContainer.agentSessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.claude-dev-ActivityBar","pinned":true,"visible":false,"order":33},{"id":"workbench.view.extension.commandcode-secondary","pinned":true,"visible":false,"order":101},{"id":"workbench.view.extension.claude-sidebar-secondary","pinned":true,"visible":false,"order":101}]'
+workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeIcon":{"id":"chat-view-icon"},"name":"Chat","isBuiltin":true,"views":[{"when":"chatExtensionInvalid
+  && !chatAccountPolicyGateActive || chatPanelParticipantRegistered &&
+  !chatAccountPolicyGateActive || !chatAccountPolicyGateActive &&
+  !chatSetupDisabledInWorkspace &&
+  !chatSetupHidden"},{"when":"managedSettingsUpdateRequired"}]},{"id":"workbench.view.extension.kilo-code-ActivityBar","name":"Kilo
+  Code","isBuiltin":false},{"id":"workbench.viewContainer.agentSessions","isBuiltin":false},{"id":"workbench.view.extension.claude-dev-ActivityBar","isBuiltin":false},{"id":"workbench.view.extension.commandcode-secondary","name":"Command
+  Code","isBuiltin":false},{"id":"workbench.view.extension.claude-sidebar-secondary","isBuiltin":false}]'
+workbench.auxiliaryBar.size: "182"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["properties",true],["pyproject-toml",true],["ignore",true],["jsonl",true],["c",true],["plaintext",true],["json",true],["java",true],["python",true],["markdown",true],["yaml",true],["jsonc",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false,"order":2},{"id":"timeline","isHidden":false,"order":3},{"id":"workbench.explorer.openEditorsView","isHidden":false,"order":1},{"id":"workbench.explorer.fileView","isHidden":false,"order":0},{"id":"npm","isHidden":true,"order":4},{"id":"dartDependencyTree","isHidden":false},{"id":"xmlTreeView","isHidden":false,"order":6},{"id":"clangd.typeHierarchyView","isHidden":false,"order":10},{"id":"clangd.memoryUsage","isHidden":false,"order":11},{"id":"clangd.ast","isHidden":false,"order":12},{"id":"asm-code-lens.calcview-explorer","isHidden":false},{"id":"rustDependencies","isHidden":true,"order":13},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"claude-dev.SidebarProvider","isHidden":false},{"id":"latex-workshop-commands","isHidden":false},{"id":"latex-workshop-structure","isHidden":false},{"id":"latex-workshop-snippet-view","isHidden":false},{"id":"thunder-client-sidebar","isHidden":false},{"id":"workbench.panel.markers.view","isHidden":false,"order":1},{"id":"miseTasksView","isHidden":false},{"id":"miseToolsView","isHidden":false},{"id":"miseEnvsView","isHidden":false},{"id":"gl.chatView","isHidden":false},{"id":"issuesAndMrs","isHidden":false},{"id":"gl.webview.duo-chat-v2","isHidden":false},{"id":"remoteSecurityScanning","isHidden":false},{"id":"currentBranchInfo","isHidden":false},{"id":"gl.webview.agentic-tabs","isHidden":false},{"id":"foundProjects","isHidden":false},{"id":"run-config","isHidden":false},{"id":"bazelWorkspace","isHidden":false,"order":5},{"id":"claudeVSCodeSidebarSecondary","isHidden":false},{"id":"dubDependencies","isHidden":false},{"id":"nim","isHidden":false},{"id":"leanModuleHierarchy","isHidden":false,"order":9},{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.patchDetails","isHidden":false},{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false},{"id":"dbcode.connections.view","isHidden":false},{"id":"dbcode.tunnels.view","isHidden":false},{"id":"dbcode.authProfiles.view","isHidden":false},{"id":"dbcode.library.view","isHidden":false},{"id":"dbcode.history.view","isHidden":false},{"id":"dbcode.account.view","isHidden":false},{"id":"dbcode.streams.view","isHidden":false},{"id":"dbcode.panelView","isHidden":false},{"id":"resource-table-view","isHidden":false},{"id":"zowe.ds.explorer","isHidden":false},{"id":"zowe.uss.explorer","isHidden":false},{"id":"zowe.jobs.explorer","isHidden":false},{"id":"zowe-resources","isHidden":false},{"id":"zosconsole","isHidden":false},{"id":"overleaf-workshop.projectHistory","isHidden":false},{"id":"overleaf-workshop.chatWebview","isHidden":false},{"id":"overleaf-workshop.projectManager","isHidden":false},{"id":"gitlens.views.welcome","isHidden":false},{"id":"dependencies","isHidden":false},{"id":"cell-tag","isHidden":false},{"id":"go.explorer","isHidden":false,"order":7},{"id":"go.package.outline","isHidden":false,"order":8},{"id":"nrf-connect.welcomeView","isHidden":false},{"id":"nrf-connect.allAppsView","isHidden":false},{"id":"nrf-connect.detailsView","isHidden":false},{"id":"nrf-connect.actionsView","isHidden":false},{"id":"nrf-connect.devicesView","isHidden":false},{"id":"nrf-device-tree-file-build-context.ctx","isHidden":false},{"id":"trond-snekvik.devicetree.files.ctx","isHidden":false},{"id":"trond-snekvik.devicetree.ctx","isHidden":false},{"id":"nrf-devicetree.editor.nodeTree","isHidden":false},{"id":"bookReaderList","isHidden":false},{"id":"bookReaderSidebar","isHidden":false},{"id":"any-reader-webview","isHidden":false},{"id":"book-reader-webview","isHidden":false},{"id":"qtLivePreview.projectExplorer","isHidden":false},{"id":"claudeVSCodeSidebar","isHidden":false},{"id":"claudeVSCodeSessionsList","isHidden":false},{"id":"projectPanel","isHidden":false},{"id":"tinymist.side-symbol-view","isHidden":false},{"id":"tinymist.dev-kit","isHidden":false},{"id":"tinymist.tool-view","isHidden":false},{"id":"tinymist.package-view","isHidden":false},{"id":"tinymist.preview.content-preview","isHidden":false},{"id":"tinymist.label-view","isHidden":false},{"id":"tinymist.preview.outline","isHidden":false},{"id":"kilo-code.SidebarProvider","isHidden":false},{"id":"javaProjectExplorer","isHidden":false,"order":14},{"id":"spring.apps","isHidden":false},{"id":"spring.beans","isHidden":false},{"id":"spring.mappings","isHidden":false},{"id":"spring.properties","isHidden":false},{"id":"spring.memoryView","isHidden":false},{"id":"mavenProjects","isHidden":false,"order":15},{"id":"explorer.spring","isHidden":false},{"id":"gistpad.gists","isHidden":false},{"id":"gistpad.repos","isHidden":false},{"id":"gistpad.showcase","isHidden":false},{"id":"leetCodeExplorer","isHidden":false},{"id":"sqltoolsViewConnectionExplorer","isHidden":false},{"id":"sqltoolsViewBookmarksExplorer","isHidden":false},{"id":"sqltoolsViewHistoryExplorer","isHidden":false},{"id":"copilot-chat","isHidden":false},{"id":"context-inspector","isHidden":false},{"id":"conanDependencies","isHidden":false},{"id":"latex-workshop-math-symbols","isHidden":false},{"id":"j2k.accepted","isHidden":false},{"id":"j2k.completed","isHidden":false},{"id":"j2k.queue","isHidden":false},{"id":"intellij-git.logView","isHidden":false},{"id":"intelligit.commitPanel","isHidden":false},{"id":"intelligit.sidebarGraph","isHidden":false},{"id":"intelligit.mergeConflicts","isHidden":false},{"id":"intelligit.fileCountBadge","isHidden":false},{"id":"intelligit.commitGraph","isHidden":false},{"id":"commandcode.chatViewSecondary","isHidden":false},{"id":"commandcode.sessions","isHidden":false},{"id":"idl-tree","isHidden":false},{"id":"resharper.solutionExplorer","isHidden":false},{"id":"gradleTasksView","isHidden":false},{"id":"gradleDefaultProjectsView","isHidden":false},{"id":"recentTasksView","isHidden":false},{"id":"gradleDaemonsView","isHidden":false}]'
+workbench.newDefaultThemeNotification: "true"
+workbench.panel.alignment: center
+workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false},{"id":"workbench.panel.chat.updateRequired","isHidden":false}]'
+workbench.panel.lastNonMaximizedHeight: "491"
+workbench.panel.lastNonMaximizedWidth: "300"
+workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.jupyter-variables","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.refactoringConflicts","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.valueTracking","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":16},{"id":"refactorPreview","pinned":true,"visible":false}]'
+workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
+  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[]},{"id":"workbench.view.extension.jupyter-variables","themeIcon":{"id":"notebook"},"name":"Jupyter","isBuiltin":false,"views":[{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen"},{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen
+  &&
+  jupyter:showTagsExplorer"}]},{"id":"workbench.view.extension.refactoringConflicts","iconUrl":{"$mid":1,"fsPath":"c:\\Users\\admin\\.vscode\\extensions\\jetbrains.resharper-code-2026.2.3-win32-x64","_sep":1,"external":"file:///c%3A/Users/admin/.vscode/extensions/jetbrains.resharper-code-2026.2.3-win32-x64","path":"%%EXTENSION_DATA_PATH%%/jetbrains.resharper-code-2026.2.3-win32-x64","scheme":"file"},"name":"Refactoring
+  Conflicts","isBuiltin":false,"views":[{"when":"refactoringConflicts:available"}]},{"id":"workbench.view.extension.valueTracking","themeIcon":{"id":"placeholder-icon"},"name":"Value
+  Tracking","isBuiltin":false,"views":[{"when":"resharper.valueTracking.hasSession"}]},{"id":"workbench.view.extension.gitlens","themeIcon":{"id":"gitlens-gitlens"},"name":"GitLens","isBuiltin":false,"views":[{"when":"!gitlens:plus:disabled
+  || gitlens:plus:disabled:view:overrides =~
+  /(?:^|\\|)gitlens\\.views\\.graph(?:\\||$)/"},{"when":"!gitlens:welcome:inEditor"},{"when":"!config.gitlens.views.scm.grouped.views.launchpad
+  &&
+  !gitlens:views:scm:grouped:views:launchpad"},{"when":"config.gitlens.cloudPatches.enabled
+  && gitlens:gk:organization:drafts:enabled && !gitlens:hasVirtualFolders &&
+  !gitlens:untrusted"},{"when":"!gitlens:hasVirtualFolders &&
+  !gitlens:untrusted"}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
+workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.panel.size: "536"
+workbench.panel.testResults.state.hidden: '[{"id":"workbench.panel.testResults.view","isHidden":false}]'
+workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false},{"id":"intellij-git.branches","isHidden":false},{"id":"intellij-git.changelists","isHidden":false}]'
+workbench.sideBar.size: "182"
+workbench.statusbar.hidden: '["mutantdino.resourcemonitor"]'
+workbench.telemetryOptOutShown: "true"
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false},{"id":"extension.firefox.loadedScripts","isHidden":false},{"id":"extension.firefox.eventBreakpoints","isHidden":false},{"id":"asm-code-lens.calcview-debug","isHidden":false},{"id":"CppSshTargetsView","isHidden":false},{"id":"lldb.loadedModules","isHidden":false},{"id":"lldb.excludedCallers","isHidden":false},{"id":"lldb-dap.modules","isHidden":false}]'
+workbench.view.extension.any-reader.state.hidden: '[{"id":"any-reader-webview","isHidden":false}]'
+workbench.view.extension.book-reader.state.hidden: '[{"id":"book-reader-webview","isHidden":false}]'
+workbench.view.extension.bookReader.state.hidden: '[{"id":"bookReaderList","isHidden":false},{"id":"bookReaderSidebar","isHidden":false}]'
+workbench.view.extension.claude-dev-ActivityBar.state.hidden: '[{"id":"claude-dev.SidebarProvider","isHidden":false}]'
+workbench.view.extension.claude-sessions-sidebar.state.hidden: '[{"id":"claudeVSCodeSessionsList","isHidden":false}]'
+workbench.view.extension.claude-sidebar-secondary.state.hidden: '[{"id":"claudeVSCodeSidebarSecondary","isHidden":false}]'
+workbench.view.extension.cmake-view.state.hidden: '[{"id":"cmake.projectStatus","isHidden":false},{"id":"cmake.outline","isHidden":false},{"id":"cmake.pinnedCommands","isHidden":false},{"id":"cmake.bookmarks","isHidden":false},{"id":"cmake.initializing","isHidden":false}]'
+workbench.view.extension.commandcode-secondary.state.hidden: '[{"id":"commandcode.chatViewSecondary","isHidden":false}]'
+workbench.view.extension.commandcode.state.hidden: '[{"id":"commandcode.sessions","isHidden":false}]'
+workbench.view.extension.conan-extension.state.hidden: '[{"id":"conanDependencies","isHidden":false}]'
+workbench.view.extension.containersView.state.hidden: '[{"id":"vscode-containers.views.containers","isHidden":false},{"id":"vscode-containers.views.images","isHidden":false},{"id":"vscode-containers.views.registries","isHidden":false},{"id":"vscode-containers.views.networks","isHidden":false},{"id":"vscode-containers.views.volumes","isHidden":false},{"id":"vscode-containers.views.dockerContexts","isHidden":false},{"id":"vscode-containers.views.help","isHidden":false}]'
+workbench.view.extension.dbcodeActivitybarContainer.state.hidden:
+  '[{"id":"dbcode.connections.view","isHidden":false},{"id":"dbcode.tunnels.view","isHidden":false},{"id":"dbcode.authProfiles.view","isHidden":false},{"id":"dbcode.library.view","isHidden":false},{"id":"dbcode.history.view","isHidden":false},{"id":"dbcode.account.view","isHidden":false},{"id":"dbcode.streams.view","isHidden":false}]'
+workbench.view.extension.dbcodePanelContainer.state.hidden: '[{"id":"dbcode.panelView","isHidden":false}]'
+workbench.view.extension.flutter.state.hidden: '[{"id":"dartFlutterSidebar","isHidden":false},{"id":"dartFlutterOutline","isHidden":false}]'
+workbench.view.extension.flutterPropertyEditorContainer.state.hidden: '[{"id":"flutterPropertyEditor","isHidden":false}]'
+workbench.view.extension.gistpad.state.hidden: '[{"id":"gistpad.gists","isHidden":false},{"id":"gistpad.repos","isHidden":false},{"id":"gistpad.showcase","isHidden":true}]'
+workbench.view.extension.github-actions.state.hidden: '[{"id":"github-actions.current-branch","isHidden":false},{"id":"github-actions.workflows","isHidden":false},{"id":"github-actions.settings","isHidden":false},{"id":"github-actions.empty-view","isHidden":false}]'
+workbench.view.extension.gitlab-agent-platform.state.hidden: '[{"id":"gl.webview.agentic-tabs","isHidden":false}]'
+workbench.view.extension.gitlab-duo.state.hidden: '[{"id":"gl.chatView","isHidden":false},{"id":"gl.webview.duo-chat-v2","isHidden":false}]'
+workbench.view.extension.gitlab-workflow.state.hidden: '[{"id":"issuesAndMrs","isHidden":false},{"id":"remoteSecurityScanning","isHidden":false},{"id":"currentBranchInfo","isHidden":false}]'
+workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.welcome","isHidden":true},{"id":"gitlens.views.home","isHidden":true},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":true},{"id":"gitlens.views.workspaces","isHidden":true},{"id":"gitlens.views.graph","isHidden":false}]'
+workbench.view.extension.gitlensInspect.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false}]'
+workbench.view.extension.gitlensPanel.state.hidden: '[{"id":"gitlens.views.graph","isHidden":false}]'
+workbench.view.extension.gradleContainerView.state.hidden: '[{"id":"gradleTasksView","isHidden":false},{"id":"gradleDefaultProjectsView","isHidden":false},{"id":"recentTasksView","isHidden":false},{"id":"gradleDaemonsView","isHidden":false}]'
+workbench.view.extension.idl-view.state.hidden: '[{"id":"idl-tree","isHidden":false}]'
+workbench.view.extension.intelligit.state.hidden: '[{"id":"intelligit.commitPanel","isHidden":false},{"id":"intelligit.sidebarGraph","isHidden":false},{"id":"intelligit.mergeConflicts","isHidden":false},{"id":"intelligit.fileCountBadge","isHidden":true}]'
+workbench.view.extension.intelligitPanel.state.hidden: '[{"id":"intelligit.commitGraph","isHidden":false}]'
+workbench.view.extension.j2k.state.hidden: '[{"id":"j2k.accepted","isHidden":false},{"id":"j2k.completed","isHidden":false},{"id":"j2k.queue","isHidden":false}]'
+workbench.view.extension.jupyter-variables.state.hidden: '[{"id":"jupyterViewVariables","isHidden":false},{"id":"cell-tag","isHidden":false}]'
+workbench.view.extension.kilo-code-ActivityBar.state.hidden: '[{"id":"kilo-code.SidebarProvider","isHidden":false}]'
+workbench.view.extension.latex-workshop-activitybar.state.hidden:
+  '[{"id":"latex-workshop-commands","isHidden":false},{"id":"latex-workshop-structure","isHidden":false},{"id":"latex-workshop-math-symbols","isHidden":false}]'
+workbench.view.extension.leetcode.state.hidden: '[{"id":"leetCodeExplorer","isHidden":false}]'
+workbench.view.extension.makefile__viewContainer.state.hidden: '[{"id":"makefile.outline","isHidden":false}]'
+workbench.view.extension.mise-panel.state.hidden: '[{"id":"miseTasksView","isHidden":false},{"id":"miseToolsView","isHidden":false},{"id":"miseEnvsView","isHidden":false},{"id":"miseBootstrapView","isHidden":false},{"id":"miseDaemonsView","isHidden":false}]'
+workbench.view.extension.nim.state.hidden: '[{"id":"nim","isHidden":false}]'
+workbench.view.extension.nrf-connect.state.hidden: '[{"id":"nrf-connect.welcomeView","isHidden":false},{"id":"nrf-connect.allAppsView","isHidden":false},{"id":"nrf-connect.detailsView","isHidden":false},{"id":"nrf-connect.actionsView","isHidden":false},{"id":"nrf-connect.devicesView","isHidden":false}]'
+workbench.view.extension.nrf-devicetree-visual-editor.state.hidden:
+  '[{"id":"nrf-device-tree-file-build-context.ctx","isHidden":false},{"id":"trond-snekvik.devicetree.files.ctx","isHidden":false},{"id":"trond-snekvik.devicetree.ctx","isHidden":false},{"id":"nrf-devicetree.editor.nodeTree","isHidden":false}]'
+workbench.view.extension.overleaf-workshop.state.hidden: '[{"id":"overleaf-workshop.projectManager","isHidden":false}]'
+workbench.view.extension.ports-explorer.state.hidden: '[{"id":"vcpkg.infoSidebarView","isHidden":false},{"id":"nodeDependencies","isHidden":false},{"id":"vcpkg.debuggerSidebarView","isHidden":false}]'
+workbench.view.extension.python.state.hidden: '[{"id":"python-projects","isHidden":false},{"id":"env-managers","isHidden":false}]'
+workbench.view.extension.qtDevelopment.state.hidden: '[{"id":"qtLivePreview.preview","isHidden":false},{"id":"qtVisualDesigner.designer","isHidden":false}]'
+workbench.view.extension.resource-table-view-panel.state.hidden: '[{"id":"resource-table-view","isHidden":false}]'
+workbench.view.extension.sidebarDevToolsInspectorContainer.state.hidden: '[{"id":"sidebarDevToolsInspector","isHidden":false}]'
+workbench.view.extension.sidebarWidgetPreviewContainer.state.hidden: '[{"id":"sidebarWidgetPreview","isHidden":false}]'
+workbench.view.extension.spring.state.hidden: '[{"id":"spring.apps","isHidden":false},{"id":"spring.beans","isHidden":false},{"id":"spring.mappings","isHidden":false},{"id":"spring.properties","isHidden":false},{"id":"spring.memoryView","isHidden":false}]'
+workbench.view.extension.sqltoolsActivityBarContainer.state.hidden:
+  '[{"id":"sqltoolsViewConnectionExplorer","isHidden":false},{"id":"sqltoolsViewBookmarksExplorer","isHidden":false},{"id":"sqltoolsViewHistoryExplorer","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false},{"id":"go.test.profile","isHidden":false},{"id":"test-explorer","isHidden":false}]'
+workbench.view.extension.thunder-client.state.hidden: '[{"id":"thunder-client-sidebar","isHidden":false}]'
+workbench.view.extension.tinymist-activitybar.state.hidden: '[{"id":"tinymist.side-symbol-view","isHidden":false},{"id":"tinymist.dev-kit","isHidden":false},{"id":"tinymist.tool-view","isHidden":false},{"id":"tinymist.package-view","isHidden":false},{"id":"tinymist.preview.content-preview","isHidden":false},{"id":"tinymist.label-view","isHidden":false},{"id":"tinymist.preview.outline","isHidden":false}]'
+workbench.view.extension.vscode-edge-devtools-view.state.hidden:
+  '[{"id":"vscode-edge-devtools-view.targets","isHidden":false},{"id":"vscode-edge-devtools-view.help-links","isHidden":false}]'
+workbench.view.extension.xmake-explorer.state.hidden: '[{"id":"xmakeConfigureView","isHidden":false},{"id":"xmakeExplorer","isHidden":false}]'
+workbench.view.extension.zowe.state.hidden: '[{"id":"zowe.ds.explorer","isHidden":false},{"id":"zowe.uss.explorer","isHidden":false},{"id":"zowe.jobs.explorer","isHidden":false}]'
+workbench.view.extension.zowezosconsole.state.hidden: '[{"id":"zosconsole","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.mcp.default.welcomeView","isHidden":false},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.agentPlugins.installed","isHidden":false},{"id":"workbench.views.agentPlugins.default.marketplace","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.extensions.restartRequired","isHidden":false},{"id":"workbench.views.agentPlugins.marketplace","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.mcp.welcomeView","isHidden":false}]'
+workbench.view.remote.state.hidden: '[{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"devVolumes","isHidden":false},{"id":"remoteTargets","isHidden":false},{"id":"targetsWsl","isHidden":false},{"id":"remoteHub.views.workspaceRepositories","isHidden":false},{"id":"~remote.helpPanel","isHidden":false}]'
+workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
+workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.conflicts","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":true},{"id":"workbench.views.sync.troubleshoot","isHidden":true},{"id":"workbench.views.sync.externalActivity","isHidden":false}]'
+workbench.views.extensions.installed.size: "119"
+workbench.views.service.panel.fed502ed-7010-485e-863a-f60ae824e0ec.state.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.welcomePage.hiddenCategories: '["Setup","eamodio.gitlens#welcome","ms-vscode.powershell#PowerShell","ms-vscode.remote-repositories#remoteRepositoriesWalkthrough","msjsdiag.vscode-react-native#RNTGetStarted","rust-lang.rust-analyzer#landing","Slint.slint#slint.welcomeWalkthrough","vscjava.vscode-java-pack#javaWelcome","ms-azuretools.vscode-containers#containersStart","GitHub.copilot-chat#copilotWelcome","Beginner","ms-toolsai.jupyter#jupyterWelcome","ms-python.python#pythonWelcome","leanprover.lean4#lean4.welcome","hverlin.mise-vscode#mise-getting-started","ms-vscode-remote.remote-wsl#wslWalkthrough"]'
+workbench.welcomePage.walkthroughMetadata: '[["GitHub.copilot-chat#copilotWelcome",{"firstSeen":1776959299030,"stepIDs":["copilot.setup.signIn","copilot.setup.signInNoAction","copilot.setup.signUp","copilot.setup.signUpNoAction","copilot.panelChat","copilot.edits","copilot.firstSuggest","copilot.inlineChatNotMac","copilot.inlineChatMac","copilot.sparkle"],"manaullyOpened":false}],["eamodio.gitlens#welcome",{"firstSeen":1776994279773,"stepIDs":["get-started-community","welcome-in-trial","welcome-in-trial-expired","welcome-in-trial-expired-eligible","welcome-paid","visualize-code-history","ai-features","git-blame","accelerate-pr-reviews"],"manaullyOpened":false}],["leanprover.lean4#lean4.welcome",{"firstSeen":1776994279773,"stepIDs":["lean4.welcome.openSetupGuide","lean4.welcome.documentation","lean4.welcome.installLean.linux","lean4.welcome.installLean.mac","lean4.welcome.installLean.windows","lean4.welcome.setupProject","lean4.welcome.help"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1776994279773,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1776994279773,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["ms-toolsai.jupyter#jupyterWelcome",{"firstSeen":1776994279773,"stepIDs":["ipynb.newUntitledIpynb","jupyter.selectKernel","jupyter.exploreAndDebug","jupyter.dataScienceLearnMore"],"manaullyOpened":false}],["ms-vscode-remote.remote-wsl#wslWalkthrough",{"firstSeen":1776994279773,"stepIDs":["explore.commands","open.wslwindow","create.project","open.project","linux.environment","install.tools","run.debug","come.back"],"manaullyOpened":false}],["ms-vscode.remote-repositories#remoteRepositoriesWalkthrough",{"firstSeen":1776994279773,"stepIDs":["editCommitRepo","createGitHubPullRequest","continueOn","openRepo","remoteIndicator"],"manaullyOpened":false}],["msjsdiag.vscode-react-native#RNTGetStarted",{"firstSeen":1776994279773,"stepIDs":["settingUpCommonEnvironment","settingUpExpoEnvironment","settingUpWindowsEnvironment","settingUpMacOsEnvironment","hermesEngine","runAndDebugReactNativeApp","exploreExtensionFeatures"],"manaullyOpened":false}],["rust-lang.rust-analyzer#landing",{"firstSeen":1776994279773,"stepIDs":["setup","docs","faq","changelog"],"manaullyOpened":false}],["hverlin.mise-vscode#mise-getting-started",{"firstSeen":1776994951721,"stepIDs":["hverlin.mise-vscode#mise-getting-started#auto-configure","hverlin.mise-vscode#mise-getting-started#explore"],"manaullyOpened":true}],["ms-azuretools.vscode-containers#containersStart",{"firstSeen":1776994951721,"stepIDs":["chooseContainerRuntime","openFolder","openFolderMac","scaffold","buildImage","runContainer","containerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}],["ms-vscode.cpptools#cppWelcome",{"firstSeen":1776994951721,"stepIDs":["awaiting.activation.mac","awaiting.activation.linux","awaiting.activation.windows","awaiting.activation.windows10","awaiting.activation.windows11","no.compilers.found.mac","no.compilers.found.linux","no.compilers.found.windows","no.compilers.found.windows10","no.compilers.found.windows11","verify.compiler.mac","verify.compiler.linux","verify.compiler.windows","verify.compiler.windows10","verify.compiler.windows11","create.cpp.file","relaunch.developer.command.prompt.windows","run.project.mac","run.project.linux","run.project.windows","customize.debugging.linux","customize.debugging.windows","customize.debugging.mac"],"manaullyOpened":false}],["ms-vscode.powershell#PowerShell",{"firstSeen":1776994951721,"stepIDs":["install-windows","install-mac","install-linux","file","sessions","ise","terminal","explore"],"manaullyOpened":false}],["Anthropic.claude-code#claude-code-walkthrough",{"firstSeen":1779725345096,"stepIDs":["welcome","open-claude","chat","sessions"],"manaullyOpened":false}],["swiftlang.swift-vscode#swift-welcome",{"firstSeen":1781584313220,"stepIDs":["installing-mac","installing-linux","installing-windows","creating-new-project","run-and-debug-executable","testing","documentation","swift-commands","selecting-toolchain","customize"],"manaullyOpened":false}],["Slint.slint#slint.welcomeWalkthrough",{"firstSeen":1781584675456,"stepIDs":["create_slint_file","live_preview","get_help"],"manaullyOpened":false}],["vmware.vscode-boot-dev-pack#springBootWelcome",{"firstSeen":1783089825709,"stepIDs":["new-project-using-initializr","explore-your-spring-projects","run-your-spring-projects","live-information-for-your-running-spring-app"],"manaullyOpened":false}],["vscjava.vscode-java-pack#javaWelcome",{"firstSeen":1783089938199,"stepIDs":["java.runtime","java.showProjectExplorer","java.showProjectExplorer.inactive","java.codeActions","java.debugAndTest","java.extensions","java.more","java.moreForMac"],"manaullyOpened":false}],["henryxiaoyang.realtime-tex#realtimeTex.welcome",{"firstSeen":1794112466236,"stepIDs":["checkSetup","installRtex","openPreview","navigate","export"],"manaullyOpened":false}]]'
+yjdyamv.smart-archiver: '{"smartArchiveCacheVersion":"2.7.1"}'
+ziglang.vscode-zig: '{"zig-version-list":[{"name":"nightly","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.17.0-dev.1970+67f39b551","major":0,"minor":17,"patch":0,"prerelease":["dev",1970],"build":["67f39b551"],"version":"0.17.0-dev.1970"},"url":"https://ziglang.org/builds/zig-x86_64-windows-0.17.0-dev.1970+67f39b551.zip","sha":"c0bd8afcd58ef7d066c47a09a79de42c91a57efa973b5a096c3926f47e36d5d0","isMach":false},{"name":"mach-latest","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.17.0-dev.1857+3c46da14d","major":0,"minor":17,"patch":0,"prerelease":["dev",1857],"build":["3c46da14d"],"version":"0.17.0-dev.1857"},"url":"https://pkg.hexops.org/zig/zig-x86_64-windows-0.17.0-dev.1857+3c46da14d.zip","sha":"bed23ab09528fb2d4516c042f6bcc8343b85e1252c14b1030fb411a387ef9325","isMach":true},{"name":"0.16.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.16.0","major":0,"minor":16,"patch":0,"prerelease":[],"build":[],"version":"0.16.0"},"url":"https://ziglang.org/download/0.16.0/zig-x86_64-windows-0.16.0.zip","sha":"68659eb5f1e4eb1437a722f1dd889c5a322c9954607f5edcf337bc3684a75a7e","notes":"https://ziglang.org/download/0.16.0/release-notes.html","isMach":false},{"name":"0.15.2","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.15.2","major":0,"minor":15,"patch":2,"prerelease":[],"build":[],"version":"0.15.2"},"url":"https://ziglang.org/download/0.15.2/zig-x86_64-windows-0.15.2.zip","sha":"3a0ed1e8799a2f8ce2a6e6290a9ff22e6906f8227865911fb7ddedc3cc14cb0c","isMach":false},{"name":"0.15.1","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.15.1","major":0,"minor":15,"patch":1,"prerelease":[],"build":[],"version":"0.15.1"},"url":"https://ziglang.org/download/0.15.1/zig-x86_64-windows-0.15.1.zip","sha":"91e69e887ca8c943ce9a515df3af013d95a66a190a3df3f89221277ebad29e34","notes":"https://ziglang.org/download/0.15.1/release-notes.html","isMach":false},{"name":"0.14.1","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.14.1","major":0,"minor":14,"patch":1,"prerelease":[],"build":[],"version":"0.14.1"},"url":"https://ziglang.org/download/0.14.1/zig-x86_64-windows-0.14.1.zip","sha":"554f5378228923ffd558eac35e21af020c73789d87afeabf4bfd16f2e6feed2c","isMach":false},{"name":"0.14.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.14.0","major":0,"minor":14,"patch":0,"prerelease":[],"build":[],"version":"0.14.0"},"url":"https://ziglang.org/download/0.14.0/zig-windows-x86_64-0.14.0.zip","sha":"f53e5f9011ba20bbc3e0e6d0a9441b31eb227a97bac0e7d24172f1b8b27b4371","notes":"https://ziglang.org/download/0.14.0/release-notes.html","isMach":false},{"name":"0.13.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.13.0","major":0,"minor":13,"patch":0,"prerelease":[],"build":[],"version":"0.13.0"},"url":"https://ziglang.org/download/0.13.0/zig-windows-x86_64-0.13.0.zip","sha":"d859994725ef9402381e557c60bb57497215682e355204d754ee3df75ee3c158","notes":"https://ziglang.org/download/0.13.0/release-notes.html","isMach":false},{"name":"0.12.1","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.12.1","major":0,"minor":12,"patch":1,"prerelease":[],"build":[],"version":"0.12.1"},"url":"https://ziglang.org/download/0.12.1/zig-windows-x86_64-0.12.1.zip","sha":"52459b147c2de4d7c28f6b1a4b3d571c114e96836bf8e31c953a7d2f5e94251c","isMach":false},{"name":"0.12.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.12.0","major":0,"minor":12,"patch":0,"prerelease":[],"build":[],"version":"0.12.0"},"url":"https://ziglang.org/download/0.12.0/zig-windows-x86_64-0.12.0.zip","sha":"2199eb4c2000ddb1fba85ba78f1fcf9c1fb8b3e57658f6a627a8e513131893f5","notes":"https://ziglang.org/download/0.12.0/release-notes.html","isMach":false},{"name":"0.11.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.11.0","major":0,"minor":11,"patch":0,"prerelease":[],"build":[],"version":"0.11.0"},"url":"https://ziglang.org/download/0.11.0/zig-windows-x86_64-0.11.0.zip","sha":"142caa3b804d86b4752556c9b6b039b7517a08afa3af842645c7e2dcd125f652","notes":"https://ziglang.org/download/0.11.0/release-notes.html","isMach":false},{"name":"0.10.1","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.10.1","major":0,"minor":10,"patch":1,"prerelease":[],"build":[],"version":"0.10.1"},"url":"https://ziglang.org/download/0.10.1/zig-windows-x86_64-0.10.1.zip","sha":"5768004e5e274c7969c3892e891596e51c5df2b422d798865471e05049988125","notes":"https://ziglang.org/download/0.10.1/release-notes.html","isMach":false},{"name":"0.10.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.10.0","major":0,"minor":10,"patch":0,"prerelease":[],"build":[],"version":"0.10.0"},"url":"https://ziglang.org/download/0.10.0/zig-windows-x86_64-0.10.0.zip","sha":"a66e2ff555c6e48781de1bcb0662ef28ee4b88af3af2a577f7b1950e430897ee","notes":"https://ziglang.org/download/0.10.0/release-notes.html","isMach":false},{"name":"0.9.1","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.9.1","major":0,"minor":9,"patch":1,"prerelease":[],"build":[],"version":"0.9.1"},"url":"https://ziglang.org/download/0.9.1/zig-windows-x86_64-0.9.1.zip","sha":"443da53387d6ae8ba6bac4b3b90e9fef4ecbe545e1c5fa3a89485c36f5c0e3a2","notes":"https://ziglang.org/download/0.9.1/release-notes.html","isMach":false},{"name":"0.9.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.9.0","major":0,"minor":9,"patch":0,"prerelease":[],"build":[],"version":"0.9.0"},"url":"https://ziglang.org/download/0.9.0/zig-windows-x86_64-0.9.0.zip","sha":"084ea2646850aaf068234b0f1a92b914ed629be47075e835f8a67d55c21d880e","notes":"https://ziglang.org/download/0.9.0/release-notes.html","isMach":false},{"name":"0.8.1","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.8.1","major":0,"minor":8,"patch":1,"prerelease":[],"build":[],"version":"0.8.1"},"url":"https://ziglang.org/download/0.8.1/zig-windows-x86_64-0.8.1.zip","sha":"43573db14cd238f7111d6bdf37492d363f11ecd1eba802567a172f277d003926","notes":"https://ziglang.org/download/0.8.1/release-notes.html","isMach":false},{"name":"0.8.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.8.0","major":0,"minor":8,"patch":0,"prerelease":[],"build":[],"version":"0.8.0"},"url":"https://ziglang.org/download/0.8.0/zig-windows-x86_64-0.8.0.zip","sha":"8580fbbf3afb72e9b495c7f8aeac752a03475ae0bbcf5d787f3775c7e1f4f807","notes":"https://ziglang.org/download/0.8.0/release-notes.html","isMach":false},{"name":"0.7.1","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.7.1","major":0,"minor":7,"patch":1,"prerelease":[],"build":[],"version":"0.7.1"},"url":"https://ziglang.org/download/0.7.1/zig-windows-x86_64-0.7.1.zip","sha":"4818a8a65b4672bc52c0ae7f14d014e0eb8caf10f12c0745176820384cea296a","notes":"https://ziglang.org/download/0.7.1/release-notes.html","isMach":false},{"name":"0.7.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.7.0","major":0,"minor":7,"patch":0,"prerelease":[],"build":[],"version":"0.7.0"},"url":"https://ziglang.org/download/0.7.0/zig-windows-x86_64-0.7.0.zip","sha":"965f56c0a36f9cda2125e3a348bc654f7f155e2804c3667d231775ec228f8553","notes":"https://ziglang.org/download/0.7.0/release-notes.html","isMach":false},{"name":"0.6.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.6.0","major":0,"minor":6,"patch":0,"prerelease":[],"build":[],"version":"0.6.0"},"url":"https://ziglang.org/download/0.6.0/zig-windows-x86_64-0.6.0.zip","sha":"c3b897832523e1026e10b2d8d55d7f895185c0a27a63681f3a23219c3f1c38f4","notes":"https://ziglang.org/download/0.6.0/release-notes.html","isMach":false},{"name":"0.5.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.5.0","major":0,"minor":5,"patch":0,"prerelease":[],"build":[],"version":"0.5.0"},"url":"https://ziglang.org/download/0.5.0/zig-windows-x86_64-0.5.0.zip","sha":"58141323db8d84a5af62746be5f9140bc161ee760ef33dc91a887bf9ac021976","notes":"https://ziglang.org/download/0.5.0/release-notes.html","isMach":false},{"name":"0.4.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.4.0","major":0,"minor":4,"patch":0,"prerelease":[],"build":[],"version":"0.4.0"},"url":"https://ziglang.org/download/0.4.0/zig-windows-x86_64-0.4.0.zip","sha":"fbc3dd205e064c263063f69f600bedb18e3d0aa2efa747a63ef6cafb6d73f127","notes":"https://ziglang.org/download/0.4.0/release-notes.html","isMach":false},{"name":"0.3.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.3.0","major":0,"minor":3,"patch":0,"prerelease":[],"build":[],"version":"0.3.0"},"url":"https://ziglang.org/download/0.3.0/zig-windows-x86_64-0.3.0.zip","sha":"bb568c03950958f8bb3472139c3ab5ed74547c8c694ab50f404c202faf51baf4","notes":"https://ziglang.org/download/0.3.0/release-notes.html","isMach":false},{"name":"0.2.0","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.2.0","major":0,"minor":2,"patch":0,"prerelease":[],"build":[],"version":"0.2.0"},"url":"https://ziglang.org/download/0.2.0/zig-win64-0.2.0.zip","sha":"4f8a2979941a1f081ec8e545cca0b72608c0db1c5a3fd377a94db40649dcd3d4","notes":"https://ziglang.org/download/0.2.0/release-notes.html","isMach":false},{"name":"0.1.1","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.1.1","major":0,"minor":1,"patch":1,"prerelease":[],"build":[],"version":"0.1.1"},"url":"https://ziglang.org/download/0.1.1/zig-win64-0.1.1.zip","sha":"6fc88bef531af7e567fe30bf60da1487b86833cbee84c7a2f3e317030aa5b660","notes":"https://ziglang.org/download/0.1.1/release-notes.html","isMach":false},{"name":"2026.7.30-mach","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.17.0-dev.1857+3c46da14d","major":0,"minor":17,"patch":0,"prerelease":["dev",1857],"build":["3c46da14d"],"version":"0.17.0-dev.1857"},"url":"https://pkg.hexops.org/zig/zig-x86_64-windows-0.17.0-dev.1857+3c46da14d.zip","sha":"bed23ab09528fb2d4516c042f6bcc8343b85e1252c14b1030fb411a387ef9325","isMach":true},{"name":"2026.6.18-mach","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.17.0-dev.892+54537285c","major":0,"minor":17,"patch":0,"prerelease":["dev",892],"build":["54537285c"],"version":"0.17.0-dev.892"},"url":"https://pkg.hexops.org/zig/zig-x86_64-windows-0.17.0-dev.892+54537285c.zip","sha":"0db5a3cd5a5e40848849caedc69985d72812cd7bc9ae351f2310e0184f6677fa","isMach":true},{"name":"2026.4.10-mach","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.16.0-dev.3142+5ccfeb926","major":0,"minor":16,"patch":0,"prerelease":["dev",3142],"build":["5ccfeb926"],"version":"0.16.0-dev.3142"},"url":"https://pkg.hexops.org/zig/zig-x86_64-windows-0.16.0-dev.3142+5ccfeb926.zip","sha":"3d7adb49db5a80d0c5f29a5dc692dbdf765102d06bff456efc00e5d3a19a92f8","isMach":true},{"name":"2024.11.0-mach","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.14.0-dev.2577+271452d22","major":0,"minor":14,"patch":0,"prerelease":["dev",2577],"build":["271452d22"],"version":"0.14.0-dev.2577"},"url":"https://pkg.hexops.org/zig/zig-windows-x86_64-0.14.0-dev.2577+271452d22.zip","sha":"23f0c4a4f789b6e1a82861bc14ea80652ba1d75784fcca55e74d50be24cf60e9","isMach":true},{"name":"2024.10.0-mach","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.14.0-dev.1911+3bf89f55c","major":0,"minor":14,"patch":0,"prerelease":["dev",1911],"build":["3bf89f55c"],"version":"0.14.0-dev.1911"},"url":"https://pkg.hexops.org/zig/zig-windows-x86_64-0.14.0-dev.1911+3bf89f55c.zip","sha":"10141d62ecdc41784cf24912dbcdc4fbafd8cac7b3818c7fe3ea4d1ab9bccfc5","isMach":true},{"name":"0.4.0-mach","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.13.0-dev.351+64ef45eb0","major":0,"minor":13,"patch":0,"prerelease":["dev",351],"build":["64ef45eb0"],"version":"0.13.0-dev.351"},"url":"https://pkg.hexops.org/zig/zig-windows-x86_64-0.13.0-dev.351+64ef45eb0.zip","sha":"7be394a9fa1e131ecd948cd0137a72fcde18afdca7c4420333057974dfee5b7d","isMach":true},{"name":"2024.5.0-mach","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.13.0-dev.351+64ef45eb0","major":0,"minor":13,"patch":0,"prerelease":["dev",351],"build":["64ef45eb0"],"version":"0.13.0-dev.351"},"url":"https://pkg.hexops.org/zig/zig-windows-x86_64-0.13.0-dev.351+64ef45eb0.zip","sha":"7be394a9fa1e131ecd948cd0137a72fcde18afdca7c4420333057974dfee5b7d","isMach":true},{"name":"2024.3.0-mach","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.12.0-dev.3180+83e578a18","major":0,"minor":12,"patch":0,"prerelease":["dev",3180],"build":["83e578a18"],"version":"0.12.0-dev.3180"},"url":"https://pkg.hexops.org/zig/zig-windows-x86_64-0.12.0-dev.3180+83e578a18.zip","sha":"471acf6a4ea582720664159b0a2df8b32f1029d6681f80b7354cbb3c3d84b1e8","isMach":true},{"name":"0.3.0-mach","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.12.0-dev.2063+804cee3b9","major":0,"minor":12,"patch":0,"prerelease":["dev",2063],"build":["804cee3b9"],"version":"0.12.0-dev.2063"},"url":"https://pkg.hexops.org/zig/zig-windows-x86_64-0.12.0-dev.2063+804cee3b9.zip","sha":"8dc5ecd7a0871d1d024e50fffdb51f0aef96c7023d9a935c598610a51f3c725c","isMach":true},{"name":"2024.1.0-mach","version":{"options":{},"loose":false,"includePrerelease":false,"raw":"0.12.0-dev.2063+804cee3b9","major":0,"minor":12,"patch":0,"prerelease":["dev",2063],"build":["804cee3b9"],"version":"0.12.0-dev.2063"},"url":"https://pkg.hexops.org/zig/zig-windows-x86_64-0.12.0-dev.2063+804cee3b9.zip","sha":"8dc5ecd7a0871d1d024e50fffdb51f0aef96c7023d9a935c598610a51f3c725c","isMach":true}],"zig-last-access-time-x86_64-windows-0.16.0":1788423310650,"zig-mirror-list":{"timestamp":1788423310893,"mirrors":"https://pkg.hexops.org/zig\nhttps://zigmirror.hryx.net/zig\nhttps://zig.linus.dev/zig\nhttps://zig.squirl.dev\nhttps://zig.mirror.mschae23.de/zig\nhttps://ziglang.freetls.fastly.net\nhttps://zig.tilok.dev\nhttps://zig-mirror.tsimnet.eu/zig\nhttps://zig.karearl.com/zig\nhttps://pkg.earth/zig\nhttps://fs.liujiacai.net/zigbuilds\nhttps://zigmirror.com\nhttps://zig.chainsafe.dev\nhttps://zig.savalione.com\nhttps://zig.bcr.ist\nhttps://zig.vortan.dev/zig\n"},"zls-select-version-0.16.0":{"version":"0.16.0","date":"2026-04-16","aarch64-linux":{"tarball":"https://builds.zigtools.org/zls-aarch64-linux-0.16.0.tar.xz","shasum":"430cd293d201eb70ae2519dbc96c854bf8791b8df7fc9392e8d2dc9680a2bed7","size":"3814984"},"aarch64-macos":{"tarball":"https://builds.zigtools.org/zls-aarch64-macos-0.16.0.tar.xz","shasum":"b93ec549f8558a7e85984a840e9276d274f1059b54ade4254296ef4982958359","size":"1080896"},"aarch64-windows":{"tarball":"https://builds.zigtools.org/zls-aarch64-windows-0.16.0.zip","shasum":"ef4c5ccb93c80c9f023105c5f558ae8774ac6668d560ba6f92a2f87d95df2311","size":"4563060"},"arm-linux":{"tarball":"https://builds.zigtools.org/zls-arm-linux-0.16.0.tar.xz","shasum":"7cf8d11f914127809b89254ad97e4b96d84294370418954a49b78bd623d3c55e","size":"3932748"},"loongarch64-linux":{"tarball":"https://builds.zigtools.org/zls-loongarch64-linux-0.16.0.tar.xz","shasum":"91128eb73e475cb85f81c40182cb6ce24457b29c857ceb8619205e6cc4bc7b96","size":"3711704"},"riscv64-linux":{"tarball":"https://builds.zigtools.org/zls-riscv64-linux-0.16.0.tar.xz","shasum":"2764ac1303a5b398569df0e8702c6f6ef86da915aeff4bf9dd0c22bc55324288","size":"4805724"},"x86-linux":{"tarball":"https://builds.zigtools.org/zls-x86-linux-0.16.0.tar.xz","shasum":"2f7965da884d74d9f7e8b8ef1208ae137084680ddf8580473ff412f62a4051a8","size":"4059840"},"x86-windows":{"tarball":"https://builds.zigtools.org/zls-x86-windows-0.16.0.zip","shasum":"ecb2870979b35143aa5e7ce92d3b69362a76fd7126c8f950a5f8a7f99a77416f","size":"4920545"},"x86_64-linux":{"tarball":"https://builds.zigtools.org/zls-x86_64-linux-0.16.0.tar.xz","shasum":"ded6d562a0b86ee878b1ddf70ffab2797ce3cdca3b02d6077548f9d56dff96b6","size":"4016620"},"x86_64-macos":{"tarball":"https://builds.zigtools.org/zls-x86_64-macos-0.16.0.tar.xz","shasum":"49f716ea96c1aadaecaa5d9c0a50874cbcf443dc42b825f1e7ee35499ad3eb96","size":"1248492"},"x86_64-windows":{"tarball":"https://builds.zigtools.org/zls-x86_64-windows-0.16.0.zip","shasum":"35cbb7163224e8cf92d21099c1b1391f2aba927f25d389f021b13a21d40b96dd","size":"4801390"},"wasm32-wasi":{"tarball":"https://builds.zigtools.org/zls-wasm32-wasi-0.16.0.tar.xz","shasum":"e992d135d74468ac6bac2907ce31092b2ad24a2faa8ef4e93d1131a51666fd0a","size":"2499692"},"powerpc64le-linux":{"tarball":"https://builds.zigtools.org/zls-powerpc64le-linux-0.16.0.tar.xz","shasum":"d51289187aaa892eb266baaa6c1d7f2a30f6d195eaa295c6f54eef17214f03fa","size":"3897484"},"s390x-linux":{"tarball":"https://builds.zigtools.org/zls-s390x-linux-0.16.0.tar.xz","shasum":"e4f4dda6fbd9311f86fcc81480ee2fa9bb28697376669173a825cc67711a635a","size":"4300556"}},"zls-last-access-time-x86_64-windows-0.16.0":1777726967879,"zig-last-access-time-x86_64-linux-0.16.0":1783437418533,"zls-last-access-time-x86_64-linux-0.16.0":1783437052910}'
+zokugun.cron-tasks: '{"version":"0.2.1"}'
