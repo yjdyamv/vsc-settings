@@ -124,8 +124,6 @@ enabled:
     uuid: edc1171f-618a-4985-8d5c-fc283687de70
   - id: kvoon.preferred-icon-theme
     uuid: 2e0d34f4-f7bd-4ee3-a6e8-341db09e58a8
-  - id: llvm-vs-code-extensions.lldb-dap
-    uuid: 8f0e51b3-cc69-4cf9-abab-97289d29d6de
   - id: llvm-vs-code-extensions.vscode-clangd
     uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
     version: 0.6.0

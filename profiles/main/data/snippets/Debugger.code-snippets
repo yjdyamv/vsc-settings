@@ -1,7 +1,11 @@
 {
   // 因为launch.json实际是jsonc，所以scope就填jsonc
+  // 不写 "expressions": "native" —— 那是 Rust 悬停崩溃（0xC0000005）的触发路径，
+  // 且 launch.json 里的值会覆盖全局设置，所以这里留空、继承 lldb.launch.expressions: simple。
+  // 纯 C++ 项目想用 native 的话，单独在 launch.json 里加一行即可。
   "CodeLLDB Debug Configuration": {
     "scope": "jsonc",
+    "include": [".vscode/launch.json"],
     "exclude": ["**/*.code-snippets", "**/settings.json"],
     "prefix": "codelldb-config",
     "body": [
@@ -14,8 +18,6 @@
       "  \"cwd\": \"\\${workspaceFolder}\",",
       "  \"stopOnEntry\": ${4:true},",
       "  \"terminal\": \"integrated\",",
-      "  \"console\": \"integratedTerminal\",",
-      "  \"expressions\": \"native\",",
       "  \"initCommands\": [",
       "    \"settings set target.x86-disassembly-flavor intel\",",
       "    \"settings set target.prefer-dynamic-value run-target\",",
@@ -32,22 +34,79 @@
     "scope": "jsonc",
     "exclude": ["**/*.code-snippets", "**/settings.json"],
     "prefix": "gdb-native-debug",
+    "include": [".vscode/launch.json"],
     "body": [
       "{",
       "  \"name\": \"${1:GDB Debug (Native Debug)}\",",
       "  \"type\": \"gdb\",",
       "  \"request\": \"launch\",",
       "  \"target\": \"\\${workspaceFolder}/${2:<program>}\",",
-      "  \"cwd\": \"\\${workspaceRoot}\",",
+      "  \"cwd\": \"\\${workspaceFolder}\",",
       "  \"valuesFormatting\": \"prettyPrinters\"",
       "},",
     ],
     "description": "GDB debug configuration with NATIVE DEBUG",
   },
-  "GDB (MS C/C++ Extension) Debug Configuration": {
-    "prefix": "gdb-cppdbg",
+  // 原 cppdbg 版本依赖 ms-vscode.cpptools（未安装），改用已装的 llvm-vs-code-extensions.lldb-dap
+  "LLDB-DAP Debug Configuration": {
+    "scope": "jsonc",
+    "include": [".vscode/launch.json"],
     "exclude": ["**/*.code-snippets", "**/settings.json"],
-    "description": "Custom GDB debug configuration with MS C/C++ extension",
+    "prefix": "lldb-dap",
+    "description": "LLDB-DAP launch configuration (replaces cppdbg; requires llvm-vs-code-extensions.lldb-dap)",
+    "body": [
+      "{",
+      "  \"name\": \"${1:LLDB-DAP Debug}\",",
+      "  \"type\": \"lldb-dap\",",
+      "  \"request\": \"launch\",",
+      "  \"program\": \"\\${workspaceFolder}/${2:build/<program>}\",",
+      "  \"args\": [${3}],",
+      "  \"cwd\": \"\\${workspaceFolder}\",",
+      "  \"stopOnEntry\": ${4:true},",
+      "  \"console\": \"${5|integratedTerminal,internalConsole,externalTerminal|}\",",
+      "  \"env\": {},",
+      "  \"initCommands\": [",
+      "    \"settings set target.x86-disassembly-flavor intel\",",
+      "    \"settings set target.max-string-summary-length 512\",",
+      "  ],",
+      "  \"preRunCommands\": [",
+      "    \"process handle SIGPIPE -n true -p true -s false\"",
+      "  ]",
+      "},",
+    ],
+  },
+  // 原 cppvsdbg 版本依赖 ms-vscode.cpptools（未安装），改用 lldb-dap 调 MSVC 生成的 .exe/.pdb
+  "LLDB-DAP (MSVC) Debug Configuration": {
+    "scope": "jsonc",
+    "include": [".vscode/launch.json"],
+    "exclude": ["**/*.code-snippets", "**/settings.json"],
+    "prefix": "lldb-dap-msvc",
+    "description": "LLDB-DAP launch configuration for MSVC-built exe (replaces cppvsdbg)",
+    "body": [
+      "{",
+      "  \"name\": \"${1:(MSVC) Launch}\",",
+      "  \"type\": \"lldb-dap\",",
+      "  \"request\": \"launch\",",
+      "  \"program\": \"\\${workspaceFolder}/${2:build/<program>.exe}\",",
+      "  \"args\": [${3}],",
+      "  \"cwd\": \"\\${workspaceFolder}\",",
+      "  \"stopOnEntry\": ${4:true},",
+      "  \"console\": \"${5|integratedTerminal,internalConsole,externalTerminal|}\",",
+      "  \"env\": {},",
+      "  \"initCommands\": [",
+      "    \"settings set target.x86-disassembly-flavor intel\",",
+      "    \"settings set target.max-string-summary-length 512\",",
+      "  ]",
+      "},",
+    ],
+  },
+  // ---- 以下两条需要 ms-vscode.cpptools（当前未安装）；留着备用，装了就能直接用 ----
+  "GDB (MS C/C++ Extension) Debug Configuration": {
+    "scope": "jsonc",
+    "include": [".vscode/launch.json"],
+    "exclude": ["**/*.code-snippets", "**/settings.json"],
+    "prefix": "gdb-cppdbg",
+    "description": "Custom GDB debug configuration with MS C/C++ extension (requires ms-vscode.cpptools)",
     "body": [
       "{",
       "  \"name\": \"${1:GDB (MS C/C++ Extension) Debug}\",",
@@ -80,7 +139,7 @@
     "include": [".vscode/launch.json"],
     "exclude": ["**/*.code-snippets", "**/settings.json"],
     "prefix": "msvc-config",
-    "description": "MSVC debug configuration",
+    "description": "MSVC debug configuration (requires ms-vscode.cpptools)",
     "body": [
       "{",
       "  \"name\": \"${1:(MSVC) Launch}\",",

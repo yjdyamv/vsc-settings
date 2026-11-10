@@ -545,7 +545,31 @@
   // 其他选项：commands=仅命令模式，evaluate=仅求值模式
   "lldb.consoleMode": "split",
   "lldb.displayFormat": "auto", // 变量显示格式
-  "lldb.launch.expressions": "native", // 表达式求值模式 更好看
+
+  // ---- Rust 调试崩溃（CodeLLDB 1.12.3 内置 liblldb 22.1.8）----
+  // 症状：鼠标悬停在【类型名】上（如 i32、Option）时适配器进程直接死，日志末尾
+  //       Debug adapter exit code=3221225477 (0xC0000005), signal=null
+  //       悬停变量本身没事，看 Variables / Watch 也没事。
+  // 最小复现：fn main() { let x: i32 = 1; } 在 line 2 下断点，鼠标停在 i32 上。
+  // 原因：悬停类型名会触发求值，而 liblldb 没有 Rust 类型系统，
+  //       却让 clang 求值器去解析 Rust 的 DWARF（enum2$<...> / variant_part）→ 段错误。
+  //       只改 simple 没用：simple 解析失败后会回落到 native。
+  // 佐证：绕开适配器，直接用 lldb.exe 命令行 `expr i32` 同样 SIGSEGV(139)，
+  //       所以是 liblldb 的 bug，不是 CodeLLDB 或本配置的问题。
+  // 上游：LLVM 23.1.5 已修复（同命令改为返回 error: use of undeclared identifier 'i32'）。
+  //       等 CodeLLDB 内置 liblldb 升到 23，下面两行即可删除。
+  // 追踪：https://github.com/vadimcn/codelldb/issues/1369
+  "lldb.launch.expressions": "simple", // 不走 clang JIT，控制台求值不再触发解析
+  "lldb.evaluateForHovers": false, // ← 真正止血的一行：只关悬停，Variables/Watch/Console/条件断点全不受影响，下面那套 formatter 照常生效
+
+  // ---- Rust 变量美化（仅 Windows MSVC 工具链需要手动补）----
+  // CodeLLDB 的 lang_support/rust.py 会去 <sysroot>/lib/rustlib/etc/lldb_lookup.py 找 formatter，
+  // 找不到就打印 "Could not find LLDB data formatters" 并 return，变量退化成裸结构体
+  // （Vec 显示成 buf.inner.cap/ptr 那一坨）。MSVC 工具链只发 gdb_* 和 natvis，不含 LLDB 这套，
+  // 所以要手动从 rust 仓库 src/etc/ 拷三个文件到 sysroot 的 lib/rustlib/etc/：
+  //   lldb_lookup.py / lldb_providers.py / rust_types.py
+  // 备份在 ~/.rust-lldb/ —— rustup 更新工具链后会被清掉，需重新拷一次。
+  // Linux/macOS 的工具链自带这些文件，无需处理；路径由 rust.py 现算，配置里不写死。
   "lldb.useNativePDBReader": true,
   // ===================================================
   // Python
@@ -644,6 +668,7 @@
   // ===================================================
   "rust-analyzer.procMacro.enable": true,
   "rust-analyzer.files.watcher": "server", // 让提示更快，避免提示不及时
+  "rust-analyzer.debug.engine": "vadimcn.vscode-lldb", // 默认 auto 会优先选 lldb-dap，而 lldb-dap 分支不带 Rust formatter
   "[rust]": {
     "editor.formatOnSave": true,
     "editor.formatOnPaste": false,
