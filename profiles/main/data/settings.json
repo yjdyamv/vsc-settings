@@ -561,15 +561,6 @@
   // 追踪：https://github.com/vadimcn/codelldb/issues/1369
   "lldb.launch.expressions": "simple", // 不走 clang JIT，控制台求值不再触发解析
   "lldb.evaluateForHovers": false, // ← 真正止血的一行：只关悬停，Variables/Watch/Console/条件断点全不受影响，下面那套 formatter 照常生效
-
-  // ---- Rust 变量美化（仅 Windows MSVC 工具链需要手动补）----
-  // CodeLLDB 的 lang_support/rust.py 会去 <sysroot>/lib/rustlib/etc/lldb_lookup.py 找 formatter，
-  // 找不到就打印 "Could not find LLDB data formatters" 并 return，变量退化成裸结构体
-  // （Vec 显示成 buf.inner.cap/ptr 那一坨）。MSVC 工具链只发 gdb_* 和 natvis，不含 LLDB 这套，
-  // 所以要手动从 rust 仓库 src/etc/ 拷三个文件到 sysroot 的 lib/rustlib/etc/：
-  //   lldb_lookup.py / lldb_providers.py / rust_types.py
-  // 备份在 ~/.rust-lldb/ —— rustup 更新工具链后会被清掉，需重新拷一次。
-  // Linux/macOS 的工具链自带这些文件，无需处理；路径由 rust.py 现算，配置里不写死。
   "lldb.useNativePDBReader": true,
   // ===================================================
   // Python
@@ -1002,4 +993,5 @@
   "intellij.dataSharing": "none",
   "resharper.region.region": "China",
   "resharper.dataSharing.allowDataSharing": false,
+  "clangd.path": "c:\\Users\\admin\\AppData\\Roaming\\Code\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\23.1.0\\clangd_23.1.0\\bin\\clangd.exe",
 }
