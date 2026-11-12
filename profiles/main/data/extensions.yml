@@ -8,6 +8,8 @@ disabled:
   - id: cweijan.vscode-office
     uuid: 936b1be7-8595-4f76-b102-aa6bb915da73
     version: 4.2.3
+  - id: Dart-Code.dart-code
+    uuid: f57f68ea-9ee8-42b5-9a97-041d3e4278c4
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: jnoortheen.nix-ide
@@ -33,6 +35,7 @@ disabled:
     version: 2.4.1
   - id: vscjava.vscode-gradle
     uuid: a226f06e-9b5e-493b-b92a-553d3572f969
+    version: 3.19.0
   - id: vscjava.vscode-java-debug
     uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
   - id: vscjava.vscode-java-dependency
@@ -68,8 +71,6 @@ enabled:
     uuid: 625b9abd-dfac-405b-bf34-e65f46e2f22f
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
-  - id: Dart-Code.dart-code
-    uuid: f57f68ea-9ee8-42b5-9a97-041d3e4278c4
   - id: DavidAnson.vscode-markdownlint
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: dbaeumer.vscode-eslint
