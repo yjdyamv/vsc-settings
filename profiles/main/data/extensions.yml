@@ -17,15 +17,16 @@ disabled:
     version: 0.5.13
   - id: leanprover.lean4
     uuid: ddb6b8b1-9e92-40ce-90d4-45bb5f345ef9
+    version: 0.0.242
   - id: rangav.vscode-thunder-client
     uuid: 2fd56207-78ef-49d4-95d2-9b801eee4dbf
-    version: 3.2.4
+    version: 3.2.6
   - id: redhat.java
     uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
     version: 1.58.0
   - id: Slint.slint
     uuid: 418618c9-e165-483c-ae50-4046cb7c1906
-    version: 1.18.1
+    version: 1.19.0
   - id: TheNuProjectContributors.vscode-nushell-lang
     uuid: 6862b2a7-3c9b-4bae-b48f-c697c243e6e5
   - id: vmware.vscode-boot-dev-pack
@@ -245,7 +246,7 @@ enabled:
     version: 2.1.1
   - id: yjdyamv.smart-archiver
     uuid: 960f2ea9-c033-43e6-8c70-104f240e2e30
-    version: 2.7.1
+    version: 2.8.1
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zhuangtongfa.material-theme
