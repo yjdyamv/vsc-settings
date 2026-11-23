@@ -49,7 +49,7 @@
   // 终端
   // ===================================================
   "terminal.integrated.fontFamily": "Maple Mono NF CN",
-  "terminal.integrated.gpuAcceleration": "on", // 启用GPU加速，提升终端性能
+  // "terminal.integrated.gpuAcceleration": "on", // 启用GPU加速，提升终端性能
   "terminal.integrated.inheritEnv": false,
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
