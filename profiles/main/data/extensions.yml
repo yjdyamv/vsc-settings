@@ -1,3 +1,6 @@
+builtin:
+  disabled:
+    - GitHub.copilot-chat
 disabled:
   - id: biomejs.biome
     uuid: 2c992d35-3965-4369-856e-fdfbb0af2ce2

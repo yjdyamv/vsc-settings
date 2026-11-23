@@ -986,4 +986,5 @@
   "resharper.region.region": "China",
   "resharper.dataSharing.allowDataSharing": false,
   "clangd.path": "c:\\Users\\admin\\AppData\\Roaming\\Code\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\23.1.0\\clangd_23.1.0\\bin\\clangd.exe",
+  "chat.disableAIFeatures": true,
 }
