@@ -15,6 +15,8 @@ disabled:
     uuid: f57f68ea-9ee8-42b5-9a97-041d3e4278c4
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: JetBrains.intellij-server
+    uuid: 6b1e0d26-b67e-46a3-b10d-0072e1ae4254
   - id: jnoortheen.nix-ide
     uuid: 0ffebccd-4265-4f2d-a855-db1adcf278c7
     version: 0.5.13
@@ -75,6 +77,8 @@ enabled:
     uuid: 625b9abd-dfac-405b-bf34-e65f46e2f22f
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
+  - id: commandcode.commandcode-vscode
+    uuid: 8fd35c4f-0ab7-4788-8e20-961f5139e316
   - id: DavidAnson.vscode-markdownlint
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: dbaeumer.vscode-eslint
@@ -114,8 +118,6 @@ enabled:
     uuid: 92fb523e-77c1-43a6-81f9-859a220809ec
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
-  - id: JetBrains.intellij-server
-    uuid: 6b1e0d26-b67e-46a3-b10d-0072e1ae4254
   - id: JetBrains.resharper-code
     uuid: 197e5b98-0635-4dd6-b7e3-503f633e7b3d
   - id: kisstkondoros.vscode-gutter-preview
