@@ -2,9 +2,6 @@ builtin:
   disabled:
     - GitHub.copilot-chat
 disabled:
-  - id: biomejs.biome
-    uuid: 2c992d35-3965-4369-856e-fdfbb0af2ce2
-    version: 3.8.1
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
     version: 0.16.0
@@ -25,13 +22,7 @@ disabled:
     version: 0.0.242
   - id: rangav.vscode-thunder-client
     uuid: 2fd56207-78ef-49d4-95d2-9b801eee4dbf
-    version: 3.2.6
-  - id: redhat.java
-    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
-    version: 1.58.0
-  - id: Slint.slint
-    uuid: 418618c9-e165-483c-ae50-4046cb7c1906
-    version: 1.19.0
+    version: 3.2.7
   - id: TheNuProjectContributors.vscode-nushell-lang
     uuid: 6862b2a7-3c9b-4bae-b48f-c697c243e6e5
   - id: vmware.vscode-boot-dev-pack
@@ -39,21 +30,11 @@ disabled:
   - id: vmware.vscode-spring-boot
     uuid: 0efda145-8595-4ff7-98ef-1e3abc5e5757
     version: 2.4.1
-  - id: vscjava.vscode-gradle
-    uuid: a226f06e-9b5e-493b-b92a-553d3572f969
-    version: 3.19.0
-  - id: vscjava.vscode-java-debug
-    uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
-  - id: vscjava.vscode-java-dependency
-    uuid: 7865e561-1c83-410e-9b99-aabada597a7e
-    version: 0.27.7
   - id: vscjava.vscode-java-pack
     uuid: 96f11e1f-1a46-4592-b084-f025b2c2a81f
   - id: vscjava.vscode-java-test
     uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
     version: 0.47.0
-  - id: vscjava.vscode-maven
-    uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
   - id: vscjava.vscode-spring-boot-dashboard
     uuid: 27fc0e8e-1341-4f52-9219-4e0f81590937
     version: 0.15.0
@@ -77,8 +58,6 @@ enabled:
     uuid: 625b9abd-dfac-405b-bf34-e65f46e2f22f
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
-  - id: commandcode.commandcode-vscode
-    uuid: 8fd35c4f-0ab7-4788-8e20-961f5139e316
   - id: DavidAnson.vscode-markdownlint
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: dbaeumer.vscode-eslint
@@ -212,6 +191,9 @@ enabled:
   - id: pranaygp.vscode-css-peek
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
     version: 4.5.1
+  - id: redhat.java
+    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+    version: 1.58.0
   - id: redhat.vscode-xml
     uuid: 6703768d-d42f-474e-9f6e-5f288d53f6e8
   - id: redhat.vscode-yaml
@@ -240,6 +222,16 @@ enabled:
     uuid: bb77ad7f-cbc2-4e7a-8793-aa8f16a4ff2f
   - id: vadimcn.vscode-lldb
     uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
+  - id: vscjava.vscode-gradle
+    uuid: a226f06e-9b5e-493b-b92a-553d3572f969
+    version: 3.19.0
+  - id: vscjava.vscode-java-debug
+    uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
+  - id: vscjava.vscode-java-dependency
+    uuid: 7865e561-1c83-410e-9b99-aabada597a7e
+    version: 0.27.7
+  - id: vscjava.vscode-maven
+    uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
   - id: vscode-icons-team.vscode-icons
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
   - id: Vue.volar
@@ -253,8 +245,6 @@ enabled:
     uuid: 960f2ea9-c033-43e6-8c70-104f240e2e30
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
-  - id: zhuangtongfa.material-theme
-    uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
   - id: ziglang.vscode-zig
     uuid: 9f528315-746c-44d9-97ba-d4d505cca308
   - id: Zignd.html-css-class-completion
