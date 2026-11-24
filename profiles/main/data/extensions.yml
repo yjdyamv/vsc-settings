@@ -12,8 +12,6 @@ disabled:
     uuid: f57f68ea-9ee8-42b5-9a97-041d3e4278c4
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
-  - id: JetBrains.intellij-server
-    uuid: 6b1e0d26-b67e-46a3-b10d-0072e1ae4254
   - id: jnoortheen.nix-ide
     uuid: 0ffebccd-4265-4f2d-a855-db1adcf278c7
     version: 0.5.13
@@ -32,9 +30,6 @@ disabled:
     version: 2.4.1
   - id: vscjava.vscode-java-pack
     uuid: 96f11e1f-1a46-4592-b084-f025b2c2a81f
-  - id: vscjava.vscode-java-test
-    uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
-    version: 0.47.0
   - id: vscjava.vscode-spring-boot-dashboard
     uuid: 27fc0e8e-1341-4f52-9219-4e0f81590937
     version: 0.15.0
@@ -230,6 +225,9 @@ enabled:
   - id: vscjava.vscode-java-dependency
     uuid: 7865e561-1c83-410e-9b99-aabada597a7e
     version: 0.27.7
+  - id: vscjava.vscode-java-test
+    uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
+    version: 0.47.0
   - id: vscjava.vscode-maven
     uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
   - id: vscode-icons-team.vscode-icons
