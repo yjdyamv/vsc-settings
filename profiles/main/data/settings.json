@@ -480,7 +480,7 @@
   // //   "valuesFormatting": "prettyPrinters",
   // //   "stopAtEntry": true,
   // // },
-  // ---- CMake 调试: LLDB 配置 (当前使用) ----
+  // ---- CMake 调试: LLDB 配置 (注释备用) ----
   // // 1.2 使用LLDB（DWARF格式和PDB格式都支持）
   "cmake.debugConfig": {
     "type": "lldb",
@@ -562,6 +562,20 @@
   "lldb.launch.expressions": "simple", // 不走 clang JIT，控制台求值不再触发解析
   "lldb.evaluateForHovers": false, // ← 真正止血的一行：只关悬停，Variables/Watch/Console/条件断点全不受影响，下面那套 formatter 照常生效
   "lldb.useNativePDBReader": true,
+  // ===================================================
+  // Rust
+  // ===================================================
+  "rust-analyzer.procMacro.enable": true,
+  "rust-analyzer.files.watcher": "server", // 让提示更快，避免提示不及时
+  "rust-analyzer.debug.engine": "vadimcn.vscode-lldb", // 默认 auto 会优先选 lldb-dap，而 lldb-dap 分支不带 Rust formatter
+  "[rust]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+  },
+  "lldb-dap.enableAutoVariableSummaries": true,
+  "lldb-dap.enableSyntheticChildDebugging": true,
   // ===================================================
   // Python
   // ===================================================
@@ -653,18 +667,6 @@
     "editor.defaultFormatter": "oxc.oxc-vscode",
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
-  },
-  // ===================================================
-  // Rust
-  // ===================================================
-  "rust-analyzer.procMacro.enable": true,
-  "rust-analyzer.files.watcher": "server", // 让提示更快，避免提示不及时
-  "rust-analyzer.debug.engine": "vadimcn.vscode-lldb", // 默认 auto 会优先选 lldb-dap，而 lldb-dap 分支不带 Rust formatter
-  "[rust]": {
-    "editor.formatOnSave": true,
-    "editor.formatOnPaste": false,
-    "editor.formatOnType": false,
-    "editor.defaultFormatter": "rust-lang.rust-analyzer",
   },
   // ===================================================
   // Go
